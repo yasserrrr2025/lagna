@@ -5,6 +5,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010001",
     "seat_full": "010001"
   },
@@ -14,6 +15,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010002",
     "seat_full": "010002"
   },
@@ -23,6 +25,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010003",
     "seat_full": "010003"
   },
@@ -32,6 +35,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010004",
     "seat_full": "010004"
   },
@@ -41,6 +45,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010005",
     "seat_full": "010005"
   },
@@ -50,6 +55,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010006",
     "seat_full": "010006"
   },
@@ -59,6 +65,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010007",
     "seat_full": "010007"
   },
@@ -68,6 +75,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010008",
     "seat_full": "010008"
   },
@@ -77,6 +85,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010009",
     "seat_full": "010009"
   },
@@ -86,6 +95,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010010",
     "seat_full": "010010"
   },
@@ -95,6 +105,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010011",
     "seat_full": "010011"
   },
@@ -104,6 +115,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010012",
     "seat_full": "010012"
   },
@@ -113,6 +125,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010013",
     "seat_full": "010013"
   },
@@ -122,6 +135,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "010014",
     "seat_full": "010014"
   },
@@ -131,6 +145,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083001",
     "seat_full": "083001"
   },
@@ -140,6 +155,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083002",
     "seat_full": "083002"
   },
@@ -149,6 +165,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083003",
     "seat_full": "083003"
   },
@@ -158,6 +175,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083004",
     "seat_full": "083004"
   },
@@ -167,6 +185,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083005",
     "seat_full": "083005"
   },
@@ -176,6 +195,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083006",
     "seat_full": "083006"
   },
@@ -185,6 +205,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083007",
     "seat_full": "083007"
   },
@@ -194,6 +215,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083008",
     "seat_full": "083008"
   },
@@ -203,6 +225,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083009",
     "seat_full": "083009"
   },
@@ -212,6 +235,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083010",
     "seat_full": "083010"
   },
@@ -221,6 +245,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083011",
     "seat_full": "083011"
   },
@@ -230,6 +255,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010015",
     "seat_full": "010015"
   },
@@ -239,6 +265,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010016",
     "seat_full": "010016"
   },
@@ -248,6 +275,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010017",
     "seat_full": "010017"
   },
@@ -257,6 +285,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010018",
     "seat_full": "010018"
   },
@@ -266,6 +295,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010019",
     "seat_full": "010019"
   },
@@ -275,6 +305,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010020",
     "seat_full": "010020"
   },
@@ -284,6 +315,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010021",
     "seat_full": "010021"
   },
@@ -293,6 +325,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010022",
     "seat_full": "010022"
   },
@@ -302,6 +335,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010023",
     "seat_full": "010023"
   },
@@ -311,6 +345,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010024",
     "seat_full": "010024"
   },
@@ -320,6 +355,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010025",
     "seat_full": "010025"
   },
@@ -329,6 +365,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010026",
     "seat_full": "010026"
   },
@@ -338,6 +375,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010027",
     "seat_full": "010027"
   },
@@ -347,6 +385,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "010028",
     "seat_full": "010028"
   },
@@ -356,6 +395,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083012",
     "seat_full": "083012"
   },
@@ -365,6 +405,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083013",
     "seat_full": "083013"
   },
@@ -374,6 +415,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083014",
     "seat_full": "083014"
   },
@@ -383,6 +425,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083015",
     "seat_full": "083015"
   },
@@ -392,6 +435,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083016",
     "seat_full": "083016"
   },
@@ -401,6 +445,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083017",
     "seat_full": "083017"
   },
@@ -410,6 +455,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083018",
     "seat_full": "083018"
   },
@@ -419,6 +465,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083019",
     "seat_full": "083019"
   },
@@ -428,6 +475,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083020",
     "seat_full": "083020"
   },
@@ -437,6 +485,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083021",
     "seat_full": "083021"
   },
@@ -446,6 +495,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
+    "committee_location": "فصل 9",
     "seat": "083022",
     "seat_full": "083022"
   },
@@ -455,6 +505,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010029",
     "seat_full": "010029"
   },
@@ -464,6 +515,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010030",
     "seat_full": "010030"
   },
@@ -473,6 +525,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010031",
     "seat_full": "010031"
   },
@@ -482,6 +535,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010032",
     "seat_full": "010032"
   },
@@ -491,6 +545,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010033",
     "seat_full": "010033"
   },
@@ -500,6 +555,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010034",
     "seat_full": "010034"
   },
@@ -509,6 +565,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010035",
     "seat_full": "010035"
   },
@@ -518,6 +575,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010036",
     "seat_full": "010036"
   },
@@ -527,6 +585,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010037",
     "seat_full": "010037"
   },
@@ -536,6 +595,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010038",
     "seat_full": "010038"
   },
@@ -545,6 +605,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010039",
     "seat_full": "010039"
   },
@@ -554,6 +615,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010040",
     "seat_full": "010040"
   },
@@ -563,6 +625,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010041",
     "seat_full": "010041"
   },
@@ -572,6 +635,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "010042",
     "seat_full": "010042"
   },
@@ -581,6 +645,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083023",
     "seat_full": "083023"
   },
@@ -590,6 +655,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083024",
     "seat_full": "083024"
   },
@@ -599,6 +665,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083025",
     "seat_full": "083025"
   },
@@ -608,6 +675,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083026",
     "seat_full": "083026"
   },
@@ -617,6 +685,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083027",
     "seat_full": "083027"
   },
@@ -626,6 +695,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083028",
     "seat_full": "083028"
   },
@@ -635,6 +705,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083029",
     "seat_full": "083029"
   },
@@ -644,6 +715,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083030",
     "seat_full": "083030"
   },
@@ -653,6 +725,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083031",
     "seat_full": "083031"
   },
@@ -662,6 +735,7 @@
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
+    "committee_location": "فصل 10",
     "seat": "083032",
     "seat_full": "083032"
   },
@@ -671,6 +745,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010043",
     "seat_full": "010043"
   },
@@ -680,6 +755,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010044",
     "seat_full": "010044"
   },
@@ -689,6 +765,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010045",
     "seat_full": "010045"
   },
@@ -698,6 +775,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010046",
     "seat_full": "010046"
   },
@@ -707,6 +785,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010047",
     "seat_full": "010047"
   },
@@ -716,6 +795,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010048",
     "seat_full": "010048"
   },
@@ -725,6 +805,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010049",
     "seat_full": "010049"
   },
@@ -734,6 +815,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010050",
     "seat_full": "010050"
   },
@@ -743,6 +825,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010051",
     "seat_full": "010051"
   },
@@ -752,6 +835,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010052",
     "seat_full": "010052"
   },
@@ -761,6 +845,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010053",
     "seat_full": "010053"
   },
@@ -770,6 +855,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010054",
     "seat_full": "010054"
   },
@@ -779,6 +865,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010055",
     "seat_full": "010055"
   },
@@ -788,6 +875,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "010056",
     "seat_full": "010056"
   },
@@ -797,6 +885,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064001",
     "seat_full": "064001"
   },
@@ -806,6 +895,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064002",
     "seat_full": "064002"
   },
@@ -815,6 +905,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064003",
     "seat_full": "064003"
   },
@@ -824,6 +915,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064004",
     "seat_full": "064004"
   },
@@ -833,6 +925,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064005",
     "seat_full": "064005"
   },
@@ -842,6 +935,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064006",
     "seat_full": "064006"
   },
@@ -851,6 +945,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "6",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064007",
     "seat_full": "064007"
   },
@@ -860,6 +955,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064008",
     "seat_full": "064008"
   },
@@ -869,6 +965,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064009",
     "seat_full": "064009"
   },
@@ -878,8 +975,9 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "4",
-    "seat": "064010",
-    "seat_full": "064010"
+    "committee_location": "فصل 11",
+    "seat": "06410",
+    "seat_full": "06410"
   },
   {
     "national_id": "1146792468",
@@ -887,6 +985,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064011",
     "seat_full": "064011"
   },
@@ -896,6 +995,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064012",
     "seat_full": "064012"
   },
@@ -905,6 +1005,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064013",
     "seat_full": "064013"
   },
@@ -914,6 +1015,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064014",
     "seat_full": "064014"
   },
@@ -923,6 +1025,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "4",
+    "committee_location": "فصل 11",
     "seat": "064015",
     "seat_full": "064015"
   },
@@ -932,6 +1035,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010057",
     "seat_full": "010057"
   },
@@ -941,6 +1045,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010058",
     "seat_full": "010058"
   },
@@ -950,6 +1055,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010059",
     "seat_full": "010059"
   },
@@ -959,6 +1065,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010060",
     "seat_full": "010060"
   },
@@ -968,6 +1075,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010061",
     "seat_full": "010061"
   },
@@ -977,6 +1085,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010062",
     "seat_full": "010062"
   },
@@ -986,6 +1095,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010063",
     "seat_full": "010063"
   },
@@ -995,6 +1105,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010064",
     "seat_full": "010064"
   },
@@ -1004,6 +1115,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010065",
     "seat_full": "010065"
   },
@@ -1013,6 +1125,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010066",
     "seat_full": "010066"
   },
@@ -1022,6 +1135,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010067",
     "seat_full": "010067"
   },
@@ -1031,6 +1145,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010068",
     "seat_full": "010068"
   },
@@ -1040,6 +1155,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010069",
     "seat_full": "010069"
   },
@@ -1049,6 +1165,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "010070",
     "seat_full": "010070"
   },
@@ -1058,6 +1175,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064016",
     "seat_full": "064016"
   },
@@ -1067,6 +1185,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064017",
     "seat_full": "064017"
   },
@@ -1076,6 +1195,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064018",
     "seat_full": "064018"
   },
@@ -1085,6 +1205,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064019",
     "seat_full": "064019"
   },
@@ -1094,6 +1215,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064020",
     "seat_full": "064020"
   },
@@ -1103,6 +1225,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064021",
     "seat_full": "064021"
   },
@@ -1112,6 +1235,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064022",
     "seat_full": "064022"
   },
@@ -1121,6 +1245,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064023",
     "seat_full": "064023"
   },
@@ -1130,6 +1255,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064024",
     "seat_full": "064024"
   },
@@ -1139,6 +1265,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064025",
     "seat_full": "064025"
   },
@@ -1148,6 +1275,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064026",
     "seat_full": "064026"
   },
@@ -1157,6 +1285,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064027",
     "seat_full": "064027"
   },
@@ -1166,6 +1295,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064028",
     "seat_full": "064028"
   },
@@ -1175,6 +1305,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064029",
     "seat_full": "064029"
   },
@@ -1184,6 +1315,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "5",
+    "committee_location": "فصل 12",
     "seat": "064030",
     "seat_full": "064030"
   },
@@ -1193,6 +1325,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010071",
     "seat_full": "010071"
   },
@@ -1202,6 +1335,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010072",
     "seat_full": "010072"
   },
@@ -1211,6 +1345,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010073",
     "seat_full": "010073"
   },
@@ -1220,6 +1355,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010074",
     "seat_full": "010074"
   },
@@ -1229,6 +1365,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010075",
     "seat_full": "010075"
   },
@@ -1238,6 +1375,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010076",
     "seat_full": "010076"
   },
@@ -1247,6 +1385,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010077",
     "seat_full": "010077"
   },
@@ -1256,6 +1395,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010078",
     "seat_full": "010078"
   },
@@ -1265,6 +1405,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010079",
     "seat_full": "010079"
   },
@@ -1274,6 +1415,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010080",
     "seat_full": "010080"
   },
@@ -1283,6 +1425,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010081",
     "seat_full": "010081"
   },
@@ -1292,6 +1435,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010082",
     "seat_full": "010082"
   },
@@ -1301,6 +1445,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010083",
     "seat_full": "010083"
   },
@@ -1310,6 +1455,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "010084",
     "seat_full": "010084"
   },
@@ -1319,6 +1465,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064031",
     "seat_full": "064031"
   },
@@ -1328,6 +1475,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064032",
     "seat_full": "064032"
   },
@@ -1337,6 +1485,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064033",
     "seat_full": "064033"
   },
@@ -1346,6 +1495,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064034",
     "seat_full": "064034"
   },
@@ -1355,6 +1505,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064035",
     "seat_full": "064035"
   },
@@ -1364,6 +1515,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064036",
     "seat_full": "064036"
   },
@@ -1373,6 +1525,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064037",
     "seat_full": "064037"
   },
@@ -1382,6 +1535,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064038",
     "seat_full": "064038"
   },
@@ -1391,6 +1545,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064039",
     "seat_full": "064039"
   },
@@ -1400,6 +1555,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064040",
     "seat_full": "064040"
   },
@@ -1409,6 +1565,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064041",
     "seat_full": "064041"
   },
@@ -1418,6 +1575,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064042",
     "seat_full": "064042"
   },
@@ -1427,6 +1585,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064043",
     "seat_full": "064043"
   },
@@ -1436,6 +1595,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064044",
     "seat_full": "064044"
   },
@@ -1445,6 +1605,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "6",
+    "committee_location": "فصل 13",
     "seat": "064045",
     "seat_full": "064045"
   },
@@ -1454,6 +1615,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010085",
     "seat_full": "010085"
   },
@@ -1463,6 +1625,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010086",
     "seat_full": "010086"
   },
@@ -1472,6 +1635,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010087",
     "seat_full": "010087"
   },
@@ -1481,6 +1645,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010088",
     "seat_full": "010088"
   },
@@ -1490,6 +1655,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010089",
     "seat_full": "010089"
   },
@@ -1499,6 +1665,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010090",
     "seat_full": "010090"
   },
@@ -1508,6 +1675,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010091",
     "seat_full": "010091"
   },
@@ -1517,6 +1685,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010092",
     "seat_full": "010092"
   },
@@ -1526,15 +1695,17 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010093",
     "seat_full": "010093"
   },
   {
     "national_id": "1151075114",
-    "name": "عبدالرحمن أحمد عبدالرحمن الزبيدي",
+    "name": "عبدرحمن أحمد عبدالرحمن الزبيدي",
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010094",
     "seat_full": "010094"
   },
@@ -1544,6 +1715,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010095",
     "seat_full": "010095"
   },
@@ -1553,6 +1725,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010096",
     "seat_full": "010096"
   },
@@ -1562,6 +1735,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010097",
     "seat_full": "010097"
   },
@@ -1571,6 +1745,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "010098",
     "seat_full": "010098"
   },
@@ -1580,6 +1755,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064046",
     "seat_full": "064046"
   },
@@ -1589,6 +1765,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064047",
     "seat_full": "064047"
   },
@@ -1598,6 +1775,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064048",
     "seat_full": "064048"
   },
@@ -1607,6 +1785,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064049",
     "seat_full": "064049"
   },
@@ -1616,6 +1795,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064050",
     "seat_full": "064050"
   },
@@ -1625,6 +1805,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064051",
     "seat_full": "064051"
   },
@@ -1634,6 +1815,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064052",
     "seat_full": "064052"
   },
@@ -1643,6 +1825,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064053",
     "seat_full": "064053"
   },
@@ -1652,6 +1835,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064054",
     "seat_full": "064054"
   },
@@ -1661,15 +1845,17 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064055",
     "seat_full": "064055"
   },
   {
     "national_id": "1143982294",
-    "name": "سلطان علي بن صالح زهراني",
+    "name": "سلطان علي بن صالح الزهراني",
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064056",
     "seat_full": "064056"
   },
@@ -1679,6 +1865,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064057",
     "seat_full": "064057"
   },
@@ -1688,6 +1875,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064058",
     "seat_full": "064058"
   },
@@ -1697,6 +1885,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064059",
     "seat_full": "064059"
   },
@@ -1706,6 +1895,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "7",
+    "committee_location": "فصل 4",
     "seat": "064060",
     "seat_full": "064060"
   },
@@ -1715,6 +1905,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010099",
     "seat_full": "010099"
   },
@@ -1724,6 +1915,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010100",
     "seat_full": "010100"
   },
@@ -1733,6 +1925,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010101",
     "seat_full": "010101"
   },
@@ -1742,6 +1935,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010102",
     "seat_full": "010102"
   },
@@ -1751,6 +1945,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010103",
     "seat_full": "010103"
   },
@@ -1760,6 +1955,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010104",
     "seat_full": "010104"
   },
@@ -1769,6 +1965,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010105",
     "seat_full": "010105"
   },
@@ -1778,6 +1975,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010106",
     "seat_full": "010106"
   },
@@ -1787,6 +1985,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010107",
     "seat_full": "010107"
   },
@@ -1796,6 +1995,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010108",
     "seat_full": "010108"
   },
@@ -1805,6 +2005,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010109",
     "seat_full": "010109"
   },
@@ -1814,6 +2015,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010110",
     "seat_full": "010110"
   },
@@ -1823,6 +2025,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010111",
     "seat_full": "010111"
   },
@@ -1832,6 +2035,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "010112",
     "seat_full": "010112"
   },
@@ -1841,6 +2045,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064061",
     "seat_full": "064061"
   },
@@ -1850,6 +2055,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064062",
     "seat_full": "064062"
   },
@@ -1859,6 +2065,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064063",
     "seat_full": "064063"
   },
@@ -1868,6 +2075,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064064",
     "seat_full": "064064"
   },
@@ -1877,6 +2085,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064065",
     "seat_full": "064065"
   },
@@ -1886,6 +2095,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064066",
     "seat_full": "064066"
   },
@@ -1895,6 +2105,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064067",
     "seat_full": "064067"
   },
@@ -1904,6 +2115,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064068",
     "seat_full": "064068"
   },
@@ -1913,6 +2125,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064069",
     "seat_full": "064069"
   },
@@ -1922,6 +2135,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064070",
     "seat_full": "064070"
   },
@@ -1931,6 +2145,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064071",
     "seat_full": "064071"
   },
@@ -1940,6 +2155,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064072",
     "seat_full": "064072"
   },
@@ -1949,6 +2165,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064073",
     "seat_full": "064073"
   },
@@ -1958,6 +2175,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064074",
     "seat_full": "064074"
   },
@@ -1967,6 +2185,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "8",
+    "committee_location": "فصل 14",
     "seat": "064075",
     "seat_full": "064075"
   },
@@ -1976,6 +2195,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010113",
     "seat_full": "010113"
   },
@@ -1985,6 +2205,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010114",
     "seat_full": "010114"
   },
@@ -1994,6 +2215,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010115",
     "seat_full": "010115"
   },
@@ -2003,6 +2225,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010116",
     "seat_full": "010116"
   },
@@ -2012,6 +2235,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010117",
     "seat_full": "010117"
   },
@@ -2021,6 +2245,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010118",
     "seat_full": "010118"
   },
@@ -2030,6 +2255,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010119",
     "seat_full": "010119"
   },
@@ -2039,6 +2265,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010120",
     "seat_full": "010120"
   },
@@ -2048,6 +2275,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010121",
     "seat_full": "010121"
   },
@@ -2057,6 +2285,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010122",
     "seat_full": "010122"
   },
@@ -2066,15 +2295,17 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010123",
     "seat_full": "010123"
   },
   {
     "national_id": "5674906",
-    "name": "عماد احمد المحمد",
+    "name": "- عماد احمد المحمد",
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010124",
     "seat_full": "010124"
   },
@@ -2084,6 +2315,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010125",
     "seat_full": "010125"
   },
@@ -2093,6 +2325,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "010126",
     "seat_full": "010126"
   },
@@ -2102,6 +2335,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064076",
     "seat_full": "064076"
   },
@@ -2111,6 +2345,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064077",
     "seat_full": "064077"
   },
@@ -2120,6 +2355,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064078",
     "seat_full": "064078"
   },
@@ -2129,6 +2365,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064079",
     "seat_full": "064079"
   },
@@ -2138,6 +2375,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064080",
     "seat_full": "064080"
   },
@@ -2147,6 +2385,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064081",
     "seat_full": "064081"
   },
@@ -2156,6 +2395,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064082",
     "seat_full": "064082"
   },
@@ -2165,6 +2405,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064083",
     "seat_full": "064083"
   },
@@ -2174,6 +2415,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064084",
     "seat_full": "064084"
   },
@@ -2183,6 +2425,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064085",
     "seat_full": "064085"
   },
@@ -2192,6 +2435,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064086",
     "seat_full": "064086"
   },
@@ -2201,6 +2445,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064087",
     "seat_full": "064087"
   },
@@ -2210,6 +2455,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064088",
     "seat_full": "064088"
   },
@@ -2219,6 +2465,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064089",
     "seat_full": "064089"
   },
@@ -2228,6 +2475,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "9",
+    "committee_location": "فصل 15",
     "seat": "064090",
     "seat_full": "064090"
   },
@@ -2237,6 +2485,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010127",
     "seat_full": "010127"
   },
@@ -2246,6 +2495,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010128",
     "seat_full": "010128"
   },
@@ -2255,6 +2505,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010129",
     "seat_full": "010129"
   },
@@ -2264,6 +2515,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010130",
     "seat_full": "010130"
   },
@@ -2273,6 +2525,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010131",
     "seat_full": "010131"
   },
@@ -2282,6 +2535,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010132",
     "seat_full": "010132"
   },
@@ -2291,6 +2545,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010133",
     "seat_full": "010133"
   },
@@ -2300,6 +2555,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010134",
     "seat_full": "010134"
   },
@@ -2309,6 +2565,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010135",
     "seat_full": "010135"
   },
@@ -2318,6 +2575,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010136",
     "seat_full": "010136"
   },
@@ -2327,6 +2585,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010137",
     "seat_full": "010137"
   },
@@ -2336,6 +2595,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010138",
     "seat_full": "010138"
   },
@@ -2345,6 +2605,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010139",
     "seat_full": "010139"
   },
@@ -2354,6 +2615,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "010140",
     "seat_full": "010140"
   },
@@ -2363,6 +2625,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064091",
     "seat_full": "064091"
   },
@@ -2372,6 +2635,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064092",
     "seat_full": "064092"
   },
@@ -2381,6 +2645,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064093",
     "seat_full": "064093"
   },
@@ -2390,6 +2655,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064094",
     "seat_full": "064094"
   },
@@ -2399,6 +2665,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064095",
     "seat_full": "064095"
   },
@@ -2408,6 +2675,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064096",
     "seat_full": "064096"
   },
@@ -2417,6 +2685,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064097",
     "seat_full": "064097"
   },
@@ -2426,6 +2695,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064098",
     "seat_full": "064098"
   },
@@ -2435,6 +2705,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064099",
     "seat_full": "064099"
   },
@@ -2444,6 +2715,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064100",
     "seat_full": "064100"
   },
@@ -2453,6 +2725,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064101",
     "seat_full": "064101"
   },
@@ -2462,6 +2735,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064102",
     "seat_full": "064102"
   },
@@ -2471,6 +2745,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064103",
     "seat_full": "064103"
   },
@@ -2480,6 +2755,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064104",
     "seat_full": "064104"
   },
@@ -2489,6 +2765,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "10",
+    "committee_location": "فصل 16",
     "seat": "064105",
     "seat_full": "064105"
   },
@@ -2498,6 +2775,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010141",
     "seat_full": "010141"
   },
@@ -2507,6 +2785,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010142",
     "seat_full": "010142"
   },
@@ -2516,6 +2795,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010143",
     "seat_full": "010143"
   },
@@ -2525,6 +2805,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010144",
     "seat_full": "010144"
   },
@@ -2534,6 +2815,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010145",
     "seat_full": "010145"
   },
@@ -2543,6 +2825,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010146",
     "seat_full": "010146"
   },
@@ -2552,6 +2835,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010147",
     "seat_full": "010147"
   },
@@ -2561,6 +2845,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010148",
     "seat_full": "010148"
   },
@@ -2570,6 +2855,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010149",
     "seat_full": "010149"
   },
@@ -2579,6 +2865,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010150",
     "seat_full": "010150"
   },
@@ -2588,6 +2875,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010151",
     "seat_full": "010151"
   },
@@ -2597,6 +2885,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010152",
     "seat_full": "010152"
   },
@@ -2606,6 +2895,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010153",
     "seat_full": "010153"
   },
@@ -2615,6 +2905,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "010154",
     "seat_full": "010154"
   },
@@ -2624,6 +2915,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064106",
     "seat_full": "064106"
   },
@@ -2633,6 +2925,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064107",
     "seat_full": "064107"
   },
@@ -2642,6 +2935,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064108",
     "seat_full": "064108"
   },
@@ -2651,6 +2945,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064109",
     "seat_full": "064109"
   },
@@ -2660,6 +2955,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064110",
     "seat_full": "064110"
   },
@@ -2669,6 +2965,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064111",
     "seat_full": "064111"
   },
@@ -2678,6 +2975,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064112",
     "seat_full": "064112"
   },
@@ -2687,6 +2985,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064113",
     "seat_full": "064113"
   },
@@ -2696,6 +2995,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064114",
     "seat_full": "064114"
   },
@@ -2705,6 +3005,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064115",
     "seat_full": "064115"
   },
@@ -2714,6 +3015,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064116",
     "seat_full": "064116"
   },
@@ -2723,6 +3025,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064117",
     "seat_full": "064117"
   },
@@ -2732,6 +3035,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064118",
     "seat_full": "064118"
   },
@@ -2741,6 +3045,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "11",
+    "committee_location": "فصل 17",
     "seat": "064119",
     "seat_full": "064119"
   },
@@ -2750,6 +3055,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010155",
     "seat_full": "010155"
   },
@@ -2759,6 +3065,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010156",
     "seat_full": "010156"
   },
@@ -2768,6 +3075,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010157",
     "seat_full": "010157"
   },
@@ -2777,6 +3085,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010158",
     "seat_full": "010158"
   },
@@ -2786,6 +3095,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010159",
     "seat_full": "010159"
   },
@@ -2795,6 +3105,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010160",
     "seat_full": "010160"
   },
@@ -2804,6 +3115,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010161",
     "seat_full": "010161"
   },
@@ -2813,6 +3125,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010162",
     "seat_full": "010162"
   },
@@ -2822,6 +3135,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010163",
     "seat_full": "010163"
   },
@@ -2831,6 +3145,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010164",
     "seat_full": "010164"
   },
@@ -2840,6 +3155,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010165",
     "seat_full": "010165"
   },
@@ -2849,6 +3165,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010166",
     "seat_full": "010166"
   },
@@ -2858,6 +3175,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010167",
     "seat_full": "010167"
   },
@@ -2867,6 +3185,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "010168",
     "seat_full": "010168"
   },
@@ -2876,6 +3195,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064120",
     "seat_full": "064120"
   },
@@ -2885,6 +3205,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064121",
     "seat_full": "064121"
   },
@@ -2894,6 +3215,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064122",
     "seat_full": "064122"
   },
@@ -2903,6 +3225,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064123",
     "seat_full": "064123"
   },
@@ -2912,6 +3235,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064124",
     "seat_full": "064124"
   },
@@ -2921,6 +3245,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064125",
     "seat_full": "064125"
   },
@@ -2930,6 +3255,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064126",
     "seat_full": "064126"
   },
@@ -2939,6 +3265,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064127",
     "seat_full": "064127"
   },
@@ -2948,6 +3275,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064128",
     "seat_full": "064128"
   },
@@ -2957,6 +3285,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064129",
     "seat_full": "064129"
   },
@@ -2966,6 +3295,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064130",
     "seat_full": "064130"
   },
@@ -2975,6 +3305,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064131",
     "seat_full": "064131"
   },
@@ -2984,6 +3315,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064132",
     "seat_full": "064132"
   },
@@ -2993,6 +3325,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "12",
+    "committee_location": "فصل 18",
     "seat": "064133",
     "seat_full": "064133"
   },
@@ -3002,6 +3335,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010169",
     "seat_full": "010169"
   },
@@ -3011,6 +3345,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010170",
     "seat_full": "010170"
   },
@@ -3020,6 +3355,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010171",
     "seat_full": "010171"
   },
@@ -3029,6 +3365,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010172",
     "seat_full": "010172"
   },
@@ -3038,6 +3375,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010173",
     "seat_full": "010173"
   },
@@ -3047,6 +3385,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010174",
     "seat_full": "010174"
   },
@@ -3056,6 +3395,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010175",
     "seat_full": "010175"
   },
@@ -3065,6 +3405,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010176",
     "seat_full": "010176"
   },
@@ -3074,6 +3415,7 @@
     "grade": "الأول الثانوي",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010177",
     "seat_full": "010177"
   },
@@ -3083,6 +3425,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010178",
     "seat_full": "010178"
   },
@@ -3092,6 +3435,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010179",
     "seat_full": "010179"
   },
@@ -3101,6 +3445,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010180",
     "seat_full": "010180"
   },
@@ -3110,6 +3455,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "010181",
     "seat_full": "010181"
   },
@@ -3119,6 +3465,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064134",
     "seat_full": "064134"
   },
@@ -3128,6 +3475,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064135",
     "seat_full": "064135"
   },
@@ -3137,6 +3485,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064136",
     "seat_full": "064136"
   },
@@ -3146,6 +3495,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064137",
     "seat_full": "064137"
   },
@@ -3155,6 +3505,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064138",
     "seat_full": "064138"
   },
@@ -3164,6 +3515,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064139",
     "seat_full": "064139"
   },
@@ -3173,6 +3525,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064140",
     "seat_full": "064140"
   },
@@ -3182,6 +3535,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064141",
     "seat_full": "064141"
   },
@@ -3191,6 +3545,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064142",
     "seat_full": "064142"
   },
@@ -3200,6 +3555,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064143",
     "seat_full": "064143"
   },
@@ -3209,6 +3565,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064144",
     "seat_full": "064144"
   },
@@ -3218,6 +3575,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064145",
     "seat_full": "064145"
   },
@@ -3227,6 +3585,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064146",
     "seat_full": "064146"
   },
@@ -3236,6 +3595,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "13",
+    "committee_location": "فصل 20",
     "seat": "064147",
     "seat_full": "064147"
   },
@@ -3245,6 +3605,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010182",
     "seat_full": "010182"
   },
@@ -3254,6 +3615,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010183",
     "seat_full": "010183"
   },
@@ -3263,6 +3625,7 @@
     "grade": "الأول الثانوي",
     "class": "6",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010184",
     "seat_full": "010184"
   },
@@ -3272,6 +3635,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010185",
     "seat_full": "010185"
   },
@@ -3281,6 +3645,7 @@
     "grade": "الأول الثانوي",
     "class": "2",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010186",
     "seat_full": "010186"
   },
@@ -3290,6 +3655,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010187",
     "seat_full": "010187"
   },
@@ -3299,6 +3665,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010188",
     "seat_full": "010188"
   },
@@ -3308,6 +3675,7 @@
     "grade": "الأول الثانوي",
     "class": "3",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010189",
     "seat_full": "010189"
   },
@@ -3317,6 +3685,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010190",
     "seat_full": "010190"
   },
@@ -3326,6 +3695,7 @@
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010191",
     "seat_full": "010191"
   },
@@ -3335,6 +3705,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010192",
     "seat_full": "010192"
   },
@@ -3344,6 +3715,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010193",
     "seat_full": "010193"
   },
@@ -3353,6 +3725,7 @@
     "grade": "الأول الثانوي",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "010194",
     "seat_full": "010194"
   },
@@ -3362,6 +3735,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064148",
     "seat_full": "064148"
   },
@@ -3371,6 +3745,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064149",
     "seat_full": "064149"
   },
@@ -3380,6 +3755,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064150",
     "seat_full": "064150"
   },
@@ -3389,6 +3765,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064151",
     "seat_full": "064151"
   },
@@ -3398,6 +3775,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064152",
     "seat_full": "064152"
   },
@@ -3407,6 +3785,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064153",
     "seat_full": "064153"
   },
@@ -3416,6 +3795,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064154",
     "seat_full": "064154"
   },
@@ -3425,6 +3805,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "5",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064155",
     "seat_full": "064155"
   },
@@ -3434,6 +3815,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "3",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064156",
     "seat_full": "064156"
   },
@@ -3443,6 +3825,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064157",
     "seat_full": "064157"
   },
@@ -3452,6 +3835,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064158",
     "seat_full": "064158"
   },
@@ -3461,6 +3845,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "4",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064159",
     "seat_full": "064159"
   },
@@ -3470,6 +3855,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "2",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064160",
     "seat_full": "064160"
   },
@@ -3479,6 +3865,7 @@
     "grade": "الثاني ثانوي المسار العام",
     "class": "1",
     "committee": "14",
+    "committee_location": "فصل 20",
     "seat": "064161",
     "seat_full": "064161"
   }
