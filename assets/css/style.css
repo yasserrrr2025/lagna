@@ -208,27 +208,42 @@ footer {
     margin-top: auto;
 }
 
-/* --- تنسيق زر جدول الاختبارات --- */
+/* --- زر جدول الاختبارات الجذاب --- */
 .schedule-btn {
-    display: flex;            /* محاذاة النص والأيقونة */
+    display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
     width: 100%;
-    padding: 14px;
-    margin-bottom: 25px;      /* مسافة تفصله عن أزرار التبديل */
-    background: rgba(242, 140, 40, 0.1); /* خلفية برتقالية شفافة */
-    color: var(--accent-color); /* النص باللون الذهبي */
-    border: 1px solid var(--accent-color);
-    border-radius: 14px;
-    text-decoration: none;    /* إزالة الخط تحت الرابط */
+    padding: 18px; /* حجم كبير للنقر */
+    margin-bottom: 25px; /* مسافة تفصله عن الأزرار تحته */
+    background: linear-gradient(135deg, #f28c28, #d97718); /* تدرج برتقالي */
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
     font-weight: 800;
-    transition: all 0.3s ease;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px -5px rgba(242, 140, 40, 0.4); /* ظل ناعم ملون */
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+/* تأثير اللمعان عند التحويم */
+.schedule-btn::after {
+    content: '';
+    position: absolute;
+    top: 0; left: -100%;
+    width: 100%; height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    transition: 0.5s;
 }
 
 .schedule-btn:hover {
-    background: var(--accent-color); /* تعبئة اللون عند التحويم */
-    color: var(--white);
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(242, 140, 40, 0.2);
+    transform: translateY(-3px); /* يرتفع للأعلى قليلاً */
+    box-shadow: 0 12px 25px -5px rgba(242, 140, 40, 0.6);
+}
+
+.schedule-btn:hover::after {
+    left: 100%;
 }
