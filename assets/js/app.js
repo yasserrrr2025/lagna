@@ -91,12 +91,14 @@ function showStudent() {
 }
 
 // دالة عرض كارت الطالب
+// دالة عرض كارت الطالب
 function render(s) {
   return `
     <div class="result">
       الاسم: ${s.name}<br>
       الصف: ${s.grade} / ${s.class}<br>
       اللجنة: ${s.committee}<br>
+      مقر اللجنة: ${s.committee_location}<br>
       رقم الجلوس: ${s.seat}
     </div>
   `;
