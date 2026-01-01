@@ -7,39 +7,39 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
 
 <div class="background"></div>
 
 <header class="top">
-  <img src="https://www.raed.net/img?id=1493762" class="logo">
+  <img src="IMG_4087-removebg-preview.png" class="logo" alt="شعار مدرسة الفضيلة">
   <div>
-    <h1>الاستعلام عن لجنة الطالب</h1>
+    <h1>نظام لجان الاختبارات</h1>
     <p>ثانوية الفضيلة الأولى</p>
   </div>
 </header>
 
 <main class="glass">
   <div class="switch">
-    <button class="active" onclick="switchMode('id')" id="btn-id">برقم الهوية</button>
-    <button onclick="switchMode('list')" id="btn-list">بالقوائم</button>
+    <button class="active" onclick="switchMode('id')" id="btn-id">بحث بالهوية</button>
+    <button onclick="switchMode('list')" id="btn-list">بحث بالقوائم</button>
   </div>
 
   <section id="mode-id">
     <div class="field">
-      <label>رقم الهوية</label>
-      <input id="nationalId" placeholder="أدخل رقم الهوية">
+      <label>رقم الهوية الوطنية / الإقامة</label>
+      <input type="number" id="nationalId" placeholder="سجل رقم الهوية هنا...">
     </div>
-    <button class="primary" onclick="searchById()">استعلام</button>
+    <button class="primary" onclick="searchById()">استعلام مباشر</button>
     <div id="resultId"></div>
   </section>
 
   <section id="mode-list" style="display:none">
     <div class="grid">
       <div class="field">
-        <label>الصف</label>
+        <label>الصف الدراسي</label>
         <select id="grade" onchange="loadClasses()"></select>
       </div>
       <div class="field">
@@ -56,7 +56,7 @@
 </main>
 
 <footer>
-© 2025 — نظام الاستعلام المدرسي
+  جميع الحقوق محفوظة © ثانوية الفضيلة الأولى 2025
 </footer>
 
 <script src="assets/js/app.js"></script>
