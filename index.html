@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>بوابة الاستعلام عن لجنة الطالب</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="background"></div>
+
+<header class="top">
+  <img src="https://www.raed.net/img?id=1492746" class="logo">
+  <div>
+    <h1>الاستعلام عن لجنة الطالب</h1>
+    <p>واجهة رقمية ذكية لخدمة طلاب المدرسة</p>
+  </div>
+</header>
+
+<main class="glass">
+  <div class="switch">
+    <button class="active" onclick="switchMode('id')" id="btn-id">برقم الهوية</button>
+    <button onclick="switchMode('list')" id="btn-list">بالقوائم</button>
+  </div>
+
+  <section id="mode-id">
+    <div class="field">
+      <label>رقم الهوية</label>
+      <input id="nationalId" placeholder="أدخل رقم الهوية">
+    </div>
+    <button class="primary" onclick="searchById()">استعلام</button>
+    <div id="resultId"></div>
+  </section>
+
+  <section id="mode-list" style="display:none">
+    <div class="grid">
+      <div class="field">
+        <label>الصف</label>
+        <select id="grade" onchange="loadClasses()"></select>
+      </div>
+      <div class="field">
+        <label>الفصل</label>
+        <select id="class" onchange="loadStudents()"></select>
+      </div>
+      <div class="field">
+        <label>اسم الطالب</label>
+        <select id="student" onchange="showStudent()"></select>
+      </div>
+    </div>
+    <div id="resultList"></div>
+  </section>
+</main>
+
+<footer>
+© 2025 — نظام الاستعلام المدرسي
+</footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
