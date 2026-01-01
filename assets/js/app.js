@@ -19,43 +19,60 @@ function switchMode(m) {
 // البحث برقم الهوية
 function searchById() {
   const id = document.getElementById('nationalId').value.trim();
-  const s = students.find(x => x.national_id === id);
+  // تحويل الأرقام لنصوص للمقارنة الآمنة
+  const s = students.find(x => String(x.national_id).trim() === id);
   document.getElementById('resultId').innerHTML = s ? render(s) : '<div class="result">لم يتم العثور على بيانات</div>';
 }
 
-// تعبئة قائمة الصفوف (مرتبة)
+// تعبئة قائمة الصفوف (مرتبة أبجدياً ورقمياً)
 function initGrades() {
-  // استخراج الصفوف وترتيبها (numeric: true لترتيب الأرقام بشكل منطقي)
-  const g = [...new Set(students.map(s => s.grade))]
-    .sort((a, b) => a.localeCompare(b, 'ar', { numeric: true }));
+  const grades = [...new Set(students.map(s => s.grade))];
+  
+  // دالة الترتيب المحسنة
+  grades.sort((a, b) => {
+    return String(a).localeCompare(String(b), 'ar', { numeric: true });
+  });
 
   const sel = document.getElementById('grade');
   sel.innerHTML = '<option value="">اختر الصف</option>';
-  g.forEach(x => sel.innerHTML += `<option>${x}</option>`);
+  grades.forEach(x => sel.innerHTML += `<option value="${x}">${x}</option>`);
 }
 
-// تعبئة قائمة الفصول عند اختيار الصف (مرتبة)
+// تعبئة قائمة الفصول (مرتبة)
 function loadClasses() {
   const grade = document.getElementById('grade').value;
   
-  const c = [...new Set(students.filter(s => s.grade === grade).map(s => s.class))]
-    .sort((a, b) => a.localeCompare(b, 'ar', { numeric: true }));
+  // فلترة الفصول الخاصة بالصف المختار فقط
+  const classes = [...new Set(students
+    .filter(s => String(s.grade) === grade)
+    .map(s => s.class)
+  )];
+
+  // الترتيب
+  classes.sort((a, b) => {
+    return String(a).localeCompare(String(b), 'ar', { numeric: true });
+  });
 
   const sel = document.getElementById('class');
   sel.innerHTML = '<option value="">اختر الفصل</option>';
-  c.forEach(x => sel.innerHTML += `<option>${x}</option>`);
+  classes.forEach(x => sel.innerHTML += `<option value="${x}">${x}</option>`);
   
-  // تصفير قائمة الطلاب عند تغيير الفصل
+  // تصفير قائمة الطلاب
   document.getElementById('student').innerHTML = '<option value="">اختر الطالب</option>';
+  document.getElementById('resultList').innerHTML = '';
 }
 
-// تعبئة قائمة الطلاب عند اختيار الفصل (مرتبة أبجدياً حسب الاسم)
+// تعبئة قائمة الطلاب (مرتبة أبجدياً)
 function loadStudents() {
   const grade = document.getElementById('grade').value;
   const cls = document.getElementById('class').value;
   
-  const list = students.filter(s => s.grade === grade && s.class === cls)
-    .sort((a, b) => a.name.localeCompare(b.name, 'ar'));
+  const list = students.filter(s => String(s.grade) === grade && String(s.class) === cls);
+
+  // ترتيب الطلاب أبجدياً حسب الاسم
+  list.sort((a, b) => {
+    return String(a.name).localeCompare(String(b.name), 'ar');
+  });
 
   const sel = document.getElementById('student');
   sel.innerHTML = '<option value="">اختر الطالب</option>';
@@ -66,10 +83,10 @@ function loadStudents() {
 function showStudent() {
   const id = document.getElementById('student').value;
   if (!id) {
-      document.getElementById('resultList').innerHTML = '';
-      return;
+    document.getElementById('resultList').innerHTML = '';
+    return;
   }
-  const s = students.find(x => x.national_id === id);
+  const s = students.find(x => String(x.national_id) === id);
   document.getElementById('resultList').innerHTML = s ? render(s) : '';
 }
 
