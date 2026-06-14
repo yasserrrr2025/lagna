@@ -657,12 +657,29 @@ function switchScheduleTab(tab) {
   }
 }
 
-// قراءة تبويب المرحلة الممرر في الرابط (إن وُجد) لتفعيله تلقائياً
+// قراءة تبويب المرحلة الممرر في الرابط (إن وُجد) لتفعيله تلقائياً وإخفاء التبويبات الأخرى لعدم التشتيت
 window.onload = function() {
   const urlParams = new URLSearchParams(window.location.search);
   const grade = urlParams.get('grade');
   if (grade) {
     switchScheduleTab(grade);
+    
+    // إخفاء حاوية الأزرار (التبويبات) لمنع التشتيت
+    const tabsContainer = document.querySelector('.schedule-tabs');
+    if (tabsContainer) {
+      tabsContainer.style.display = 'none';
+    }
+    
+    // تحديث العنوان الفرعي باسم المرحلة المحددة
+    let gradeText = "";
+    if (grade === 'first') gradeText = "الصف الأول الثانوي (السنة الأولى المشتركة)";
+    else if (grade === 'second') gradeText = "الصف الثاني الثانوي";
+    else if (grade === 'third') gradeText = "الصف الثالث الثانوي";
+    
+    const headerP = document.querySelector('.schedule-header p');
+    if (headerP) {
+      headerP.innerHTML = `المرحلة الثانوية - جدول اختبارات ${gradeText}`;
+    }
   }
 }
 </script>
