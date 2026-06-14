@@ -11,11 +11,15 @@
 </head>
 <body>
 
-<div class="background"></div>
+<!-- الخلفية المضيئة التفاعلية -->
+<div class="glow-bg">
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+</div>
 
 <header class="top">
   <img src="https://www.raed.net/img?id=1493762" class="logo" alt="شعار مدرسة الفضيلة">
-  <div>
+  <div class="header-text">
     <h1>نظام لجان الاختبارات</h1>
     <p>ثانوية الفضيلة الأولى</p>
   </div>
@@ -23,178 +27,9 @@
 
 <main class="glass">
   
-  <button id="toggle-schedule-btn" class="schedule-btn" onclick="toggleSchedule()">
+  <a href="schedule.html" class="schedule-btn">
     <span>📅</span> مشاهدة جدول الاختبارات والتعليمات
-  </button>
-
-  <section id="schedule-section" style="display:none" class="schedule-section">
-    <div class="schedule-header">
-      <h2>جدول اختبارات الدور الأول - الفصل الدراسي الثاني 1447هـ</h2>
-    </div>
-    
-    <div class="schedule-tabs">
-      <button class="schedule-tab-btn active" onclick="switchScheduleTab('first')" id="tab-first">الأول الثانوي</button>
-      <button class="schedule-tab-btn" onclick="switchScheduleTab('second')" id="tab-second">الثاني الثانوي</button>
-      <button class="schedule-tab-btn" onclick="switchScheduleTab('third')" id="tab-third">الثالث الثانوي</button>
-    </div>
-
-    <!-- الأول الثانوي -->
-    <div class="schedule-table-container" id="table-first">
-      <table class="schedule-table">
-        <thead>
-          <tr>
-            <th>اليوم والتاريخ</th>
-            <th>الفترة</th>
-            <th>المادة</th>
-            <th>من</th>
-            <th>إلى</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td rowspan="2" class="day-cell">الأحد<br>1448/1/6هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الرياضيات</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="period-2">الثانية</td>
-            <td class="subject-cell period-2">علم البيئة</td>
-            <td class="period-2">10:00 ص</td>
-            <td class="period-2">11:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الاثنين<br>1448/1/7هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">اللغة الانجليزية</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الثلاثاء<br>1448/1/8هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الفيزياء</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الأربعاء<br>1448/1/9هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الكفايات اللغوية</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <!-- الثاني الثانوي -->
-    <div class="schedule-table-container" id="table-second" style="display:none">
-      <table class="schedule-table">
-        <thead>
-          <tr>
-            <th>اليوم والتاريخ</th>
-            <th>الفترة</th>
-            <th>المادة</th>
-            <th>من</th>
-            <th>إلى</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="day-cell">الأحد<br>1448/1/6هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الرياضيات</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الاثنين<br>1448/1/7هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">اللغة الانجليزية</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الثلاثاء<br>1448/1/8هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الكيمياء</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الأربعاء<br>1448/1/9هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الأحياء</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <!-- الثالث الثانوي -->
-    <div class="schedule-table-container" id="table-third" style="display:none">
-      <table class="schedule-table">
-        <thead>
-          <tr>
-            <th>اليوم والتاريخ</th>
-            <th>الفترة</th>
-            <th>المادة</th>
-            <th>من</th>
-            <th>إلى</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td class="day-cell">الأحد<br>1448/1/6هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الرياضيات</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الاثنين<br>1448/1/7هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">اللغة الانجليزية</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الثلاثاء<br>1448/1/8هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">الفيزياء</td>
-            <td>7:00 ص</td>
-            <td>9:30 ص</td>
-          </tr>
-          <tr>
-            <td class="day-cell">الأربعاء<br>1448/1/9هـ</td>
-            <td>الأولى</td>
-            <td class="subject-cell">علم الأرض</td>
-            <td>7:00 ص</td>
-            <td>9:00 ص</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-
-    <!-- الملاحظات -->
-    <div class="notes-container">
-      <h3>💡 ملاحظات وتعليمات هامة للطلاب:</h3>
-      <ul class="notes-list">
-        <li><span>١</span> يجب الحضور المبكر قبل بداية الاختبار.</li>
-        <li><span>٢</span> يجب إحضار جميع مستلزمات الاختبار.</li>
-        <li><span>٣</span> وقت الحضور للمدرسة الساعة <strong>(6:30 ص)</strong> ووقت دخول قاعة الاختبار الساعة <strong>(6:45 ص)</strong>.</li>
-        <li><span>٤</span> إحضار قلم الرصاص والتظليل به فقط.</li>
-        <li><span>٥</span> يرجى من أولياء الأمور حث أبنائهم على الجد والاجتهاد ومتابعة خروجهم بعد نهاية الاختبار حتى وصولهم للمنزل.</li>
-        <li class="highlighted-note"><span>٦</span> الالتزام بالزي الرسمي (الثوب - الشماغ) أثناء تأدية الاختبار.</li>
-        <li><span>٧</span> يمنع إحضار جهاز الاتصال نهائياً.</li>
-        <li><span>٨</span> يبدأ خروج الطلاب بعد منتصف الوقت.</li>
-        <li><span>٩</span> النتائج النهائية سيتم نشرها عبر برنامج نور بعد إتمام الاختبارات.</li>
-      </ul>
-    </div>
-  </section>
+  </a>
 
   <div class="switch">
     <button class="active" onclick="switchMode('id')" id="btn-id">بحث بالهوية</button>

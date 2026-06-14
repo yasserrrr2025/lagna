@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>جدول الاختبارات والتعليمات - ثانوية الفضيلة</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- الخلفية المضيئة التفاعلية -->
+<div class="glow-bg">
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+</div>
+
+<header class="top">
+  <img src="https://www.raed.net/img?id=1493762" class="logo" alt="شعار مدرسة الفضيلة">
+  <div class="header-text">
+    <h1>جدول الاختبارات والتعليمات</h1>
+    <p>ثانوية الفضيلة الأولى</p>
+  </div>
+</header>
+
+<main class="glass schedule-page-card">
+  
+  <div style="margin-bottom: 20px; display: flex; justify-content: flex-start;">
+    <a href="index.html" class="back-home-btn">
+      <span>⬅</span> العودة للرئيسية
+    </a>
+  </div>
+
+  <section id="schedule-section" class="schedule-section" style="margin-top: 0;">
+    <div class="schedule-header">
+      <h2>📅 جدول اختبارات الدور الأول (الفترة الثانية) 1447هـ</h2>
+      <p>المرحلة الثانوية - ثانوية الفضيلة الأولى</p>
+    </div>
+    
+    <div class="schedule-tabs">
+      <button class="schedule-tab-btn active" onclick="switchScheduleTab('first')" id="tab-first">الأول الثانوي (المشتركة)</button>
+      <button class="schedule-tab-btn" onclick="switchScheduleTab('second')" id="tab-second">الثاني الثانوي</button>
+      <button class="schedule-tab-btn" onclick="switchScheduleTab('third')" id="tab-third">الثالث الثانوي</button>
+    </div>
+
+    <!-- الأول الثانوي -->
+    <div class="schedule-cards-container" id="table-first">
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأحد</span>
+          <span class="day-date">٦ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">الرياضيات</div>
+          </div>
+          <div class="session-card period-2">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الثانية</span>
+              <span class="time-badge">⏰ 10:00 ص - 11:30 ص</span>
+            </div>
+            <div class="subject-name">علم البيئة</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الاثنين</span>
+          <span class="day-date">٧ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">اللغة الإنجليزية</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الثلاثاء</span>
+          <span class="day-date">٨ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">الفيزياء</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأربعاء</span>
+          <span class="day-date">٩ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">الكفايات اللغوية</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- الثاني الثانوي -->
+    <div class="schedule-cards-container" id="table-second" style="display:none">
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأحد</span>
+          <span class="day-date">٦ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">الرياضيات</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الاثنين</span>
+          <span class="day-date">٧ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">اللغة الإنجليزية</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الثلاثاء</span>
+          <span class="day-date">٨ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">الكيمياء</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأربعاء</span>
+          <span class="day-date">٩ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">الأحياء</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- الثالث الثانوي -->
+    <div class="schedule-cards-container" id="table-third" style="display:none">
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأحد</span>
+          <span class="day-date">٦ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">الرياضيات</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الاثنين</span>
+          <span class="day-date">٧ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">اللغة الإنجليزية</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الثلاثاء</span>
+          <span class="day-date">٨ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:30 ص</span>
+            </div>
+            <div class="subject-name">الفيزياء</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="schedule-day-card">
+        <div class="day-header">
+          <span class="day-name">الأربعاء</span>
+          <span class="day-date">٩ محرم ١٤٤٨هـ</span>
+        </div>
+        <div class="exam-sessions">
+          <div class="session-card period-1">
+            <div class="session-meta">
+              <span class="period-badge">الفترة الأولى</span>
+              <span class="time-badge">⏰ 07:00 ص - 09:00 ص</span>
+            </div>
+            <div class="subject-name">علم الأرض</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- الملاحظات -->
+    <div class="notes-container">
+      <h3>💡 ملاحظات وتعليمات هامة للطلاب:</h3>
+      <ul class="notes-list">
+        <li><span>١</span> <div class="note-text">يجب الحضور المبكر قبل بداية الاختبار.</div></li>
+        <li><span>٢</span> <div class="note-text">يجب إحضار جميع مستلزمات الاختبار.</div></li>
+        <li><span>٣</span> <div class="note-text">وقت الحضور للمدرسة الساعة <strong>(6:30 ص)</strong> ووقت دخول قاعة الاختبار الساعة <strong>(6:45 ص)</strong>.</div></li>
+        <li><span>٤</span> <div class="note-text">إحضار قلم الرصاص والتظليل به فقط.</div></li>
+        <li><span>٥</span> <div class="note-text">يرجى من أولياء الأمور حث أبنائهم على الجد والاجتهاد ومتابعة خروجهم بعد نهاية الاختبار حتى وصولهم للمنزل.</div></li>
+        <li class="highlighted-note"><span>٦</span> <div class="note-text">الالتزام بالزي الرسمي (الثوب - الشماغ) أثناء تأدية الاختبار.</div></li>
+        <li><span>٧</span> <div class="note-text">يمنع إحضار جهاز الاتصال نهائياً.</div></li>
+        <li><span>٨</span> <div class="note-text">يبدأ خروج الطلاب بعد منتصف الوقت.</div></li>
+        <li><span>٩</span> <div class="note-text">النتائج النهائية سيتم نشرها عبر برنامج نور بعد إتمام الاختبارات.</div></li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<footer>
+  جميع الحقوق محفوظة © ثانوية الفضيلة الأولى 2026
+</footer>
+
+<script>
+// تبديل التبويبات للجدول
+function switchScheduleTab(tab) {
+  document.getElementById('table-first').style.display = 'none';
+  document.getElementById('table-second').style.display = 'none';
+  document.getElementById('table-third').style.display = 'none';
+
+  document.getElementById('tab-first').classList.remove('active');
+  document.getElementById('tab-second').classList.remove('active');
+  document.getElementById('tab-third').classList.remove('active');
+
+  if (tab === 'first') {
+    document.getElementById('table-first').style.display = 'block';
+    document.getElementById('tab-first').classList.add('active');
+  } else if (tab === 'second') {
+    document.getElementById('table-second').style.display = 'block';
+    document.getElementById('tab-second').classList.add('active');
+  } else if (tab === 'third') {
+    document.getElementById('table-third').style.display = 'block';
+    document.getElementById('tab-third').classList.add('active');
+  }
+}
+
+// قراءة تبويب المرحلة الممرر في الرابط (إن وُجد) لتفعيله تلقائياً
+window.onload = function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const grade = urlParams.get('grade');
+  if (grade) {
+    switchScheduleTab(grade);
+  }
+}
+</script>
+</body>
+</html>

@@ -92,13 +92,11 @@ function showStudent() {
 
 // دالة عرض كارت الطالب
 function render(s) {
-  let gradeKey = "";
-  if (s.grade.includes("الأول")) {
-    gradeKey = "الأول الثانوي";
-  } else if (s.grade.includes("الثاني")) {
-    gradeKey = "الثاني الثانوي";
+  let gradeParam = "first";
+  if (s.grade.includes("الثاني")) {
+    gradeParam = "second";
   } else if (s.grade.includes("الثالث")) {
-    gradeKey = "الثالث الثانوي";
+    gradeParam = "third";
   }
 
   return `
@@ -108,71 +106,10 @@ function render(s) {
       <strong>اللجنة:</strong> ${s.committee}<br>
       <strong>مقر اللجنة:</strong> ${s.committee_location}<br>
       <strong>رقم الجلوس:</strong> ${s.seat}<br>
-      <button class="view-my-schedule-btn" onclick="viewGradeSchedule('${gradeKey}')" style="margin-top: 12px; width: 100%; padding: 8px 12px; font-weight: bold; border-radius: 8px; border: 1px solid var(--primary-color); background: rgba(13, 92, 99, 0.1); color: var(--primary-color); cursor: pointer; transition: all 0.2s;">
+      <strong>رقم الجلوس كاملاً:</strong> ${s.seat_full}<br>
+      <a href="schedule.html?grade=${gradeParam}" class="view-my-schedule-btn" style="display: block; text-align: center; text-decoration: none; margin-top: 15px; padding: 12px; font-weight: bold; border-radius: 10px; border: 1px solid var(--accent-color); background: rgba(242, 140, 40, 0.1); color: var(--accent-hover); transition: all 0.25s;">
         📅 عرض جدول اختبارات صفك
-      </button>
+      </a>
     </div>
   `;
-}
-
-// التبديل بين إظهار وإخفاء قسم الجدول
-function toggleSchedule() {
-  const sec = document.getElementById('schedule-section');
-  const btn = document.getElementById('toggle-schedule-btn');
-  if (sec.style.display === 'none') {
-    sec.style.display = 'block';
-    btn.innerHTML = '<span>📅</span> إخفاء جدول الاختبارات والتعليمات';
-    sec.scrollIntoView({ behavior: 'smooth' });
-  } else {
-    sec.style.display = 'none';
-    btn.innerHTML = '<span>📅</span> مشاهدة جدول الاختبارات والتعليمات';
-  }
-}
-
-// التبديل بين تبويبات الجدول (الأول، الثاني، الثالث ثانوي)
-function switchScheduleTab(tab) {
-  // إخفاء جميع الجداول
-  document.getElementById('table-first').style.display = 'none';
-  document.getElementById('table-second').style.display = 'none';
-  document.getElementById('table-third').style.display = 'none';
-
-  // إزالة الكلاس النشط من جميع الأزرار
-  document.getElementById('tab-first').classList.remove('active');
-  document.getElementById('tab-second').classList.remove('active');
-  document.getElementById('tab-third').classList.remove('active');
-
-  // إظهار الجدول المختار وتفعيل الزر الخاص به
-  if (tab === 'first') {
-    document.getElementById('table-first').style.display = 'block';
-    document.getElementById('tab-first').classList.add('active');
-  } else if (tab === 'second') {
-    document.getElementById('table-second').style.display = 'block';
-    document.getElementById('tab-second').classList.add('active');
-  } else if (tab === 'third') {
-    document.getElementById('table-third').style.display = 'block';
-    document.getElementById('tab-third').classList.add('active');
-  }
-}
-
-// عرض جدول الصف المختار تلقائياً للتحويل عند الضغط على كرت الطالب
-function viewGradeSchedule(gradeKey) {
-  // فتح قسم الجدول إن كان مغلقاً
-  const sec = document.getElementById('schedule-section');
-  const btn = document.getElementById('toggle-schedule-btn');
-  if (sec.style.display === 'none') {
-    sec.style.display = 'block';
-    btn.innerHTML = '<span>📅</span> إخفاء جدول الاختبارات والتعليمات';
-  }
-  
-  // تفعيل التبويب المناسب
-  if (gradeKey.includes("الأول")) {
-    switchScheduleTab('first');
-  } else if (gradeKey.includes("الثاني")) {
-    switchScheduleTab('second');
-  } else if (gradeKey.includes("الثالث")) {
-    switchScheduleTab('third');
-  }
-  
-  // التمرير إلى قسم الجدول
-  sec.scrollIntoView({ behavior: 'smooth' });
 }

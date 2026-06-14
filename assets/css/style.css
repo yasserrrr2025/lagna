@@ -1,42 +1,82 @@
 :root {
-    /* ألوان الهوية البصرية (تيل وذهبي/برتقالي) */
-    --primary-color: #0d5c63;    /* لون بترولي غامق */
+    /* ألوان الهوية البصرية المطورة */
+    --primary-color: #0d5c63;
     --primary-light: #167a82;
-    --accent-color: #f28c28;     /* لون برتقالي/ذهبي */
+    --accent-color: #f28c28;
     --accent-hover: #d97718;
-    --bg-gradient-start: #0f2027;
-    --bg-gradient-end: #203a43;
-    --text-main: #2c3e50;
-    --text-light: #7f8c8d;
+    --dark-bg: #070f11;
+    --text-white: #f8fafc;
+    --text-muted: #94a3b8;
+    --glass-bg: rgba(255, 255, 255, 0.07);
+    --glass-border: rgba(255, 255, 255, 0.12);
     --white: #ffffff;
-    --card-bg: rgba(255, 255, 255, 0.95);
-    --input-bg: #f3f4f6;
 }
 
 * {
     box-sizing: border-box;
     font-family: 'Cairo', sans-serif;
+    outline: none;
 }
 
 body {
     margin: 0;
-    color: var(--text-main);
+    color: var(--text-white);
     min-height: 100vh;
-    background: linear-gradient(135deg, var(--primary-color), var(--bg-gradient-start));
-    background-size: cover;
+    background-color: var(--dark-bg);
+    background-image: 
+        radial-gradient(at 0% 0%, rgba(13, 92, 99, 0.3) 0px, transparent 50%),
+        radial-gradient(at 100% 100%, rgba(242, 140, 40, 0.15) 0px, transparent 50%);
     background-attachment: fixed;
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 
-/* خلفية جمالية خفيفة */
-.background {
+/* --- الخلفية المضيئة المتحركة (Glow Blobs) --- */
+.glow-bg {
     position: fixed;
-    inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     z-index: -1;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.blob {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    filter: blur(80px);
+    opacity: 0.25;
+}
+
+.blob-1 {
+    background: var(--primary-light);
+    top: 15%;
+    right: 10%;
+    animation: float-1 20s infinite alternate;
+}
+
+.blob-2 {
+    background: var(--accent-color);
+    bottom: 15%;
+    left: 10%;
+    animation: float-2 25s infinite alternate;
+}
+
+@keyframes float-1 {
+    0% { transform: translate(0, 0) scale(1); }
+    100% { transform: translate(-100px, 80px) scale(1.2); }
+}
+
+@keyframes float-2 {
+    0% { transform: translate(0, 0) scale(1.2); }
+    100% { transform: translate(120px, -60px) scale(0.9); }
 }
 
 /* رأس الصفحة */
@@ -45,117 +85,175 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 15px;
-    padding: 40px 20px 20px;
+    padding: 50px 20px 30px;
     text-align: center;
-    color: var(--white);
-    text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    color: var(--text-white);
+    z-index: 2;
 }
 
-/* --- تنسيق الشعار الاحترافي الجديد --- */
 .logo {
-    width: 180px;           /* تكبير حجم الشعار */
-    height: 180px;
+    width: 150px;
+    height: 150px;
     object-fit: contain;
-    padding: 20px;          /* مسافة داخلية */
-    background-color: var(--white); /* خلفية بيضاء لبروز الشعار */
-    border-radius: 50%;     /* شكل دائري */
-    border: 5px solid var(--accent-color); /* إطار ذهبي */
-    box-shadow: 0 15px 35px rgba(0,0,0,0.3); /* ظل قوي */
-    margin-bottom: 15px;
-    transition: transform 0.3s ease;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 50%;
+    border: 4px solid var(--accent-color);
+    box-shadow: 0 10px 30px rgba(242, 140, 40, 0.3);
+    margin-bottom: 10px;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 .logo:hover {
-    transform: scale(1.05);
+    transform: scale(1.08) rotate(5deg);
 }
 
-.top h1 {
+.header-text h1 {
     margin: 0;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 800;
+    background: linear-gradient(135deg, #ffffff 30%, #e2e8f0 70%, var(--accent-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
-.top p {
-    margin: 5px 0 0;
+.header-text p {
+    margin: 8px 0 0;
     font-size: 16px;
-    opacity: 0.9;
+    color: var(--text-muted);
+    font-weight: 600;
+    letter-spacing: 0.5px;
 }
 
-/* الكارت الزجاجي */
+/* الكارت الزجاجي الاحترافي (Premium Glassmorphic Card) */
 .glass {
-    width: 90%;
+    width: 92%;
     max-width: 600px;
     margin: 0 auto 50px;
-    padding: 40px;
-    border-radius: 24px;
-    background: var(--card-bg);
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(10px);
+    padding: 40px 30px;
+    border-radius: 28px;
+    background: rgba(11, 21, 23, 0.65);
+    border: 1px solid var(--glass-border);
+    box-shadow: 
+        0 4px 30px rgba(0, 0, 0, 0.2),
+        0 15px 35px rgba(0, 0, 0, 0.3),
+        inset 0 1px 1px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(20px) saturate(180%);
+    -webkit-backdrop-filter: blur(20px) saturate(180%);
+    z-index: 2;
+    position: relative;
+    animation: fadeIn 0.5s ease-out;
 }
 
-/* أزرار التبديل */
+/* زر العودة للرئيسية */
+.back-home-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-white);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 13.5px;
+    transition: all 0.25s ease;
+}
+
+.back-home-btn:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.2);
+    transform: translateX(-3px);
+}
+
+/* أزرار التبديل الدائرية الجذابة */
 .switch {
     display: flex;
-    gap: 0;
+    gap: 6px;
     margin-bottom: 30px;
-    background: var(--input-bg);
+    background: rgba(255, 255, 255, 0.05);
     padding: 5px;
-    border-radius: 16px;
-    border: 1px solid #e5e7eb;
+    border-radius: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .switch button {
     flex: 1;
-    padding: 12px;
+    padding: 14px;
     border: none;
-    border-radius: 12px;
+    border-radius: 14px;
     cursor: pointer;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 14.5px;
     background: transparent;
-    color: var(--text-light);
-    transition: all 0.3s ease;
+    color: var(--text-muted);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .switch button.active {
-    background: var(--white);
-    color: var(--primary-color);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    background: var(--accent-color);
+    color: var(--white);
+    box-shadow: 0 4px 15px rgba(242, 140, 40, 0.4);
 }
 
-/* الحقول */
-.field { margin-bottom: 20px; }
+.switch button:not(.active):hover {
+    color: var(--text-white);
+    background: rgba(255, 255, 255, 0.03);
+}
+
+/* الحقول والعناصر المدخلة */
+.field { 
+    margin-bottom: 22px; 
+    text-align: right;
+}
 
 label {
     display: block;
-    margin-bottom: 8px;
-    font-size: 14px;
-    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-size: 13.5px;
+    color: var(--accent-color);
     font-weight: 700;
+    letter-spacing: 0.5px;
 }
 
 input, select {
     width: 100%;
     padding: 16px;
     border-radius: 14px;
-    border: 2px solid transparent;
-    background: var(--input-bg);
+    border: 1.5px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-white);
     font-size: 15px;
-    color: var(--text-main);
     outline: none;
     font-weight: 600;
-    transition: 0.3s;
+    transition: all 0.3s ease;
+    text-align: right;
+}
+
+/* متوافق مع القوائم الداكنة في المتصفح */
+select option {
+    background-color: var(--dark-bg);
+    color: var(--text-white);
+    padding: 10px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
 }
 
 input:focus, select:focus {
-    background: var(--white);
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 4px rgba(13, 92, 99, 0.1);
+    background: rgba(255, 255, 255, 0.08);
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 4px rgba(242, 140, 40, 0.15);
 }
 
-/* زر الاستعلام */
+/* زر الاستعلام الرئيسي */
 .primary {
-    margin-top: 15px;
+    margin-top: 10px;
     width: 100%;
     padding: 16px;
     border: none;
@@ -165,209 +263,281 @@ input:focus, select:focus {
     cursor: pointer;
     background: linear-gradient(135deg, var(--accent-color), var(--accent-hover));
     color: var(--white);
-    box-shadow: 0 10px 20px -5px rgba(242, 140, 40, 0.4);
-    transition: transform 0.2s;
+    box-shadow: 0 8px 25px rgba(242, 140, 40, 0.35);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-.primary:hover { transform: translateY(-2px); }
+.primary:hover { 
+    transform: translateY(-2px); 
+    box-shadow: 0 12px 30px rgba(242, 140, 40, 0.5);
+}
 
-/* الشبكة */
+.primary:active {
+    transform: translateY(1px);
+}
+
+/* الشبكة المتجاوبة للقوائم */
 .grid {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 15px;
+    gap: 18px;
 }
-@media(min-width: 480px) {
+@media(min-width: 500px) {
     .grid { grid-template-columns: 1fr 1fr; }
     .grid .field:last-child { grid-column: span 2; }
 }
 
-/* النتائج */
+/* كروت نتائج الطلاب الفاخرة */
 .result {
-    margin-top: 25px;
-    padding: 20px;
-    border-radius: 16px;
-    background: rgba(13, 92, 99, 0.05);
-    border-right: 5px solid var(--primary-color);
-    color: var(--text-main);
-    line-height: 2;
+    margin-top: 30px;
+    padding: 22px;
+    border-radius: 18px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1.5px solid rgba(255, 255, 255, 0.06);
+    border-right: 5px solid var(--accent-color);
+    color: var(--text-white);
+    line-height: 2.1;
     font-weight: 600;
-    animation: slideIn 0.3s ease-out;
+    font-size: 14.5px;
+    text-align: right;
+    direction: rtl;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    animation: slideIn 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-@keyframes slideIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
+.result strong {
+    color: var(--accent-color);
+    font-weight: 700;
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    font-size: 13px;
-    color: rgba(255,255,255,0.7);
-    margin-top: auto;
-}
-
-/* --- زر جدول الاختبارات الجذاب --- */
+/* زر مشاهدة الجدول الرئيسي */
 .schedule-btn {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
     width: 100%;
-    padding: 18px; /* حجم كبير للنقر */
-    margin-bottom: 25px; /* مسافة تفصله عن الأزرار تحته */
-    background: linear-gradient(135deg, #f28c28, #d97718); /* تدرج برتقالي */
-    color: #ffffff;
+    padding: 18px;
+    margin-bottom: 30px;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+    color: var(--white);
     text-decoration: none;
     font-size: 16px;
     font-weight: 800;
-    border-radius: 16px;
-    box-shadow: 0 8px 20px -5px rgba(242, 140, 40, 0.4); /* ظل ناعم ملون */
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border-radius: 18px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 25px rgba(13, 92, 99, 0.35);
+    transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
 }
 
-/* تأثير اللمعان عند التحويم */
 .schedule-btn::after {
     content: '';
     position: absolute;
     top: 0; left: -100%;
     width: 100%; height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
-    transition: 0.5s;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.15), transparent);
+    transition: 0.6s;
 }
 
 .schedule-btn:hover {
-    transform: translateY(-3px); /* يرتفع للأعلى قليلاً */
-    box-shadow: 0 12px 25px -5px rgba(242, 140, 40, 0.6);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(13, 92, 99, 0.5);
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
 .schedule-btn:hover::after {
     left: 100%;
 }
 
-/* --- تنسيق قسم جدول الاختبارات والتعليمات --- */
+/* زر الانتقال لجدول مرحلة الطالب من الكارت */
+.view-my-schedule-btn:hover {
+    background: var(--accent-hover) !important;
+    border-color: var(--accent-hover) !important;
+    color: var(--white) !important;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(242, 140, 40, 0.3);
+}
+
+/* --- تصميم صفحة الجدول المنفصلة --- */
+.schedule-page-card {
+    max-width: 750px !important;
+    padding: 30px 25px !important;
+}
+
 .schedule-section {
-    margin-top: 20px;
-    margin-bottom: 30px;
-    padding: 25px;
-    background: rgba(255, 255, 255, 0.95);
-    border-radius: 20px;
-    border: 1px solid rgba(13, 92, 99, 0.15);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
-    animation: slideIn 0.3s ease-out;
+    direction: rtl;
 }
 
 .schedule-header {
     text-align: center;
-    margin-bottom: 20px;
-    border-bottom: 2px solid rgba(13, 92, 99, 0.1);
-    padding-bottom: 12px;
+    margin-bottom: 25px;
+    border-bottom: 2px dashed rgba(255, 255, 255, 0.1);
+    padding-bottom: 18px;
 }
 
 .schedule-header h2 {
-    font-size: 18px;
-    color: var(--primary-color);
-    margin: 0;
-    font-weight: 800;
+    font-size: 20px;
+    color: var(--accent-color);
+    margin: 0 0 6px 0;
+    font-weight: 850;
 }
 
+.schedule-header p {
+    font-size: 13.5px;
+    color: var(--text-muted);
+    margin: 0;
+    font-weight: 600;
+}
+
+/* تبويبات الجدول */
 .schedule-tabs {
     display: flex;
-    gap: 8px;
-    margin-bottom: 20px;
-    background: #f3f4f6;
-    padding: 4px;
-    border-radius: 12px;
+    gap: 6px;
+    margin-bottom: 25px;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 5px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .schedule-tab-btn {
     flex: 1;
-    padding: 10px;
+    padding: 13px 8px;
     border: none;
-    border-radius: 8px;
-    font-weight: 700;
-    font-size: 13px;
+    border-radius: 12px;
+    font-weight: 750;
+    font-size: 13.5px;
     cursor: pointer;
     background: transparent;
-    color: var(--text-light);
-    transition: all 0.2s ease;
+    color: var(--text-muted);
+    transition: all 0.25s ease;
 }
 
 .schedule-tab-btn.active {
-    background: var(--white);
+    background: rgba(255, 255, 255, 0.95);
     color: var(--primary-color);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
-.schedule-table-container {
-    overflow-x: auto;
-    margin-bottom: 25px;
-    border-radius: 12px;
-    border: 1px solid #e5e7eb;
+/* كروت الجدول الحديثة */
+.schedule-cards-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 30px;
 }
 
-.schedule-table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
-    font-size: 14px;
+.schedule-day-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: all 0.25s ease;
 }
 
-.schedule-table th, .schedule-table td {
-    padding: 12px 10px;
-    border-bottom: 1px solid #e5e7eb;
+.schedule-day-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(242, 140, 40, 0.25);
+    box-shadow: 0 8px 25px rgba(242, 140, 40, 0.1);
 }
 
-.schedule-table th {
-    background: var(--primary-color);
+.day-header {
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
     color: var(--white);
+    padding: 14px 22px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     font-weight: 700;
+    border-bottom: 1.5px solid rgba(255, 255, 255, 0.05);
 }
 
-.schedule-table td {
-    background: var(--white);
-    color: var(--text-main);
-    font-weight: 600;
+.day-header .day-name {
+    font-size: 16px;
+    letter-spacing: 0.5px;
 }
 
-.schedule-table tr:last-child td {
-    border-bottom: none;
+.day-header .day-date {
+    font-size: 13px;
+    color: #cbd5e1;
 }
 
-.schedule-table .day-cell {
-    background: #f9fafb;
-    border-left: 1px solid #e5e7eb;
-    color: var(--primary-color);
-    font-weight: 700;
+.exam-sessions {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    background: rgba(0, 0, 0, 0.15);
 }
 
-.schedule-table .subject-cell {
-    color: var(--primary-color);
-    font-weight: 700;
-}
-
-.schedule-table .period-2 {
-    background: #f9fafb;
-}
-
-/* ملاحظات هامة */
-.notes-container {
-    background: rgba(242, 140, 40, 0.05);
-    border-right: 5px solid var(--accent-color);
-    padding: 20px;
+.session-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
     border-radius: 14px;
-    margin-top: 20px;
+    padding: 16px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    border-right: 4px solid var(--accent-color);
+}
+
+.session-card.period-2 {
+    border-right-color: var(--primary-light);
+}
+
+.session-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12.5px;
+    font-weight: 700;
+}
+
+.session-card.period-1 .period-badge {
+    color: var(--accent-color);
+}
+
+.session-card.period-2 .period-badge {
+    color: var(--primary-light);
+}
+
+.session-meta .time-badge {
+    color: var(--text-white);
+    background: rgba(255, 255, 255, 0.07);
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-family: 'Cairo', sans-serif;
+    direction: ltr;
+}
+
+.subject-name {
+    font-size: 17px;
+    color: var(--text-white);
+    font-weight: 800;
+}
+
+/* الملاحظات والتنبيهات */
+.notes-container {
+    background: rgba(242, 140, 40, 0.02);
+    border: 1px solid rgba(242, 140, 40, 0.1);
+    border-right: 6px solid var(--accent-color);
+    padding: 24px;
+    border-radius: 20px;
+    margin-top: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 
 .notes-container h3 {
-    margin-top: 0;
-    margin-bottom: 15px;
-    font-size: 16px;
-    color: var(--accent-hover);
+    margin: 0 0 20px 0;
+    font-size: 17px;
+    color: var(--accent-color);
     font-weight: 800;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .notes-list {
@@ -376,16 +546,26 @@ footer {
     margin: 0;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 15px;
 }
 
 .notes-list li {
-    font-size: 13.5px;
-    line-height: 1.6;
-    color: var(--text-main);
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: #e2e8f0;
     display: flex;
     align-items: flex-start;
-    gap: 10px;
+    gap: 12px;
+    text-align: right;
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.notes-list .note-text {
+    flex: 1;
+    direction: rtl;
+    text-align: right;
+    font-weight: 600;
 }
 
 .notes-list li span {
@@ -393,28 +573,53 @@ footer {
     color: var(--white);
     font-size: 11px;
     font-weight: 800;
-    width: 20px;
-    height: 20px;
+    width: 22px;
+    height: 22px;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    box-shadow: 0 2px 5px rgba(242, 140, 40, 0.2);
 }
 
 .notes-list li.highlighted-note {
-    background: rgba(242, 140, 40, 0.1);
-    padding: 8px 10px;
-    border-radius: 8px;
+    background: rgba(242, 140, 40, 0.06);
+    border: 1px dashed rgba(242, 140, 40, 0.2);
+    padding: 12px 16px;
+    border-radius: 14px;
     font-weight: 700;
+}
+
+.notes-list li.highlighted-note .note-text {
+    color: #ffedd5;
+    font-weight: 800;
     text-decoration: underline;
-    text-decoration-color: var(--accent-hover);
+    text-decoration-color: var(--accent-color);
+    text-underline-offset: 4px;
 }
 
 .notes-list li.highlighted-note span {
-    background: var(--accent-hover);
+    background: var(--accent-color);
 }
 
-.view-my-schedule-btn:hover {
-    background: rgba(13, 92, 99, 0.2) !important;
+/* فوتر الصفحة */
+footer {
+    text-align: center;
+    padding: 30px;
+    font-size: 13.5px;
+    color: var(--text-muted);
+    margin-top: auto;
+    z-index: 2;
+}
+
+/* الحركات الفنية */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideIn {
+    from { opacity: 0; transform: translateY(12px); }
+    to { opacity: 1; transform: translateY(0); }
 }
