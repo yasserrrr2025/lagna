@@ -107,9 +107,20 @@ function render(s) {
       <strong>مقر اللجنة:</strong> ${s.committee_location}<br>
       <strong>رقم الجلوس:</strong> ${s.seat}<br>
       <strong>رقم الجلوس كاملاً:</strong> ${s.seat_full}<br>
-      <a href="schedule.html?grade=${gradeParam}" class="view-my-schedule-btn" style="display: block; text-align: center; text-decoration: none; margin-top: 15px; padding: 12px; font-weight: bold; border-radius: 10px; border: 1px solid var(--accent-color); background: rgba(242, 140, 40, 0.1); color: var(--accent-hover); transition: all 0.25s;">
+      <button class="view-my-schedule-btn" onclick="viewGradeSchedule('${s.grade}')" style="margin-top: 15px; width: 100%; padding: 12px; font-weight: bold; border-radius: 10px; border: 1.5px solid var(--accent-color); background: rgba(242, 140, 40, 0.1); color: var(--accent-hover); cursor: pointer; transition: all 0.25s; font-size: 14px;">
         📅 عرض جدول اختبارات صفك
-      </a>
+      </button>
     </div>
   `;
+}
+
+// دالة أمان إضافية للتوجيه المباشر في حال الكاش في المتصفح
+function viewGradeSchedule(gradeKey) {
+  let gradeParam = "first";
+  if (gradeKey.includes("الثاني")) {
+    gradeParam = "second";
+  } else if (gradeKey.includes("الثالث")) {
+    gradeParam = "third";
+  }
+  window.location.href = "schedule.html?grade=" + gradeParam;
 }
