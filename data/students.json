@@ -1,17 +1,17 @@
 [
   {
-    "national_id": "1149484055",
-    "name": "ابراهيم أسامه مسلم الحربي",
+    "national_id": "2310762113",
+    "name": "أحمد عبدالرحمن عبده الحطامي",
     "grade": "الأول الثانوي",
-    "class": "3",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010001",
     "seat_full": "010001"
   },
   {
-    "national_id": "1149871723",
-    "name": "الوليد عائض بن ناصر الاسمري",
+    "national_id": "1158419281",
+    "name": "احمد محمد مريبيع الرشيدي",
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "1",
@@ -20,68 +20,68 @@
     "seat_full": "010002"
   },
   {
-    "national_id": "1162717712",
-    "name": "ابراهيم محمد ابراهيم الزهراني",
+    "national_id": "1151809991",
+    "name": "تركي علوان حسين الغامدي",
     "grade": "الأول الثانوي",
-    "class": "3",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010003",
     "seat_full": "010003"
   },
   {
-    "national_id": "1155028002",
-    "name": "احمد ابراهيم احمد صيقل",
+    "national_id": "1153374010",
+    "name": "جسار يوسف بن بكري الشمراني",
     "grade": "الأول الثانوي",
-    "class": "6",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010004",
     "seat_full": "010004"
   },
   {
-    "national_id": "1152675615",
-    "name": "احمد زياد بن احمد السهيمي",
+    "national_id": "1159435351",
+    "name": "حامد عويد عياد الرشيدي",
     "grade": "الأول الثانوي",
-    "class": "5",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010005",
     "seat_full": "010005"
   },
   {
-    "national_id": "1157242429",
-    "name": "أحمد صالح بن دنفان الزهراني",
+    "national_id": "9683633851",
+    "name": "خالد سمير محمد المومري",
     "grade": "الأول الثانوي",
-    "class": "3",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010006",
     "seat_full": "010006"
   },
   {
-    "national_id": "1154034795",
-    "name": "احمد عبدالرحمن اسماعيل زائري",
+    "national_id": "1151006283",
+    "name": "رعد أحمد شراز المنتشري",
     "grade": "الأول الثانوي",
-    "class": "6",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010007",
     "seat_full": "010007"
   },
   {
-    "national_id": "1153065311",
-    "name": "احمد عبدالرحمن بن دخيل الله الصمداني",
+    "national_id": "1151024773",
+    "name": "ريان سعيد بن علي الشهري",
     "grade": "الأول الثانوي",
-    "class": "4",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010008",
     "seat_full": "010008"
   },
   {
-    "national_id": "2310762113",
-    "name": "أحمد عبدالرحمن عبده الحطامي",
+    "national_id": "1158845824",
+    "name": "ساري ابراهيم محمد الزبيدي",
     "grade": "الأول الثانوي",
     "class": "1",
     "committee": "1",
@@ -90,58 +90,3428 @@
     "seat_full": "010009"
   },
   {
-    "national_id": "1153249147",
-    "name": "احمد عزيز عبدالله الشهري",
+    "national_id": "1163349614",
+    "name": "سالم عبدالله ابن غميظ الشهري",
     "grade": "الأول الثانوي",
-    "class": "4",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010010",
     "seat_full": "010010"
   },
   {
-    "national_id": "1149948471",
-    "name": "أحمد فواز سعيد الجلوي",
+    "national_id": "1152383244",
+    "name": "سلطان مريزيق مرزوق الجدعاني",
     "grade": "الأول الثانوي",
-    "class": "2",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010011",
     "seat_full": "010011"
   },
   {
-    "national_id": "1158419281",
-    "name": "احمد محمد مريبيع الرشيدي",
+    "national_id": "1150729166",
+    "name": "سيف ماجد عبدالعزيز الزهراني",
     "grade": "الأول الثانوي",
-    "class": "4",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010012",
     "seat_full": "010012"
   },
   {
-    "national_id": "1151889647",
-    "name": "أشرف عصام فيصل الزهراني",
+    "national_id": "4521519787",
+    "name": "صالح محمد صالح حيدره",
     "grade": "الأول الثانوي",
-    "class": "6",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010013",
     "seat_full": "010013"
   },
   {
-    "national_id": "1154072738",
-    "name": "الحسين عبدالرحمن عبدالله البركاتي",
+    "national_id": "4800285365",
+    "name": "طه حجازي طه حسن",
     "grade": "الأول الثانوي",
-    "class": "4",
+    "class": "1",
     "committee": "1",
     "committee_location": "فصل 8",
     "seat": "010014",
     "seat_full": "010014"
   },
   {
-    "national_id": "1141199156",
-    "name": "احمد صالح موسى الكثيري",
+    "national_id": "1135593968",
+    "name": "عمر محمد سعيد القرني",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010015",
+    "seat_full": "010015"
+  },
+  {
+    "national_id": "1151254255",
+    "name": "فارس فهد مرشد الجدعاني",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010016",
+    "seat_full": "010016"
+  },
+  {
+    "national_id": "2294955766",
+    "name": "فراس عادل عبدالله الاحمدى",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010017",
+    "seat_full": "010017"
+  },
+  {
+    "national_id": "1149783365",
+    "name": "فيصل ابراهيم مرزوق الزاحمي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010018",
+    "seat_full": "010018"
+  },
+  {
+    "national_id": "1152095004",
+    "name": "مالك وحيد بن عبدالله الجداوي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010019",
+    "seat_full": "010019"
+  },
+  {
+    "national_id": "1153689748",
+    "name": "محمد احمد محمد الهنيدي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010020",
+    "seat_full": "010020"
+  },
+  {
+    "national_id": "1427322486",
+    "name": "محمد الطيب محمد علي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010021",
+    "seat_full": "010021"
+  },
+  {
+    "national_id": "1146774433",
+    "name": "محمد راجح محمد السبيعي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010022",
+    "seat_full": "010022"
+  },
+  {
+    "national_id": "4602565477",
+    "name": "محمد وضاح محمد باحاج",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010023",
+    "seat_full": "010023"
+  },
+  {
+    "national_id": "2298190527",
+    "name": "مصطفى عبدالله محمد حلوان",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010024",
+    "seat_full": "010024"
+  },
+  {
+    "national_id": "1150946208",
+    "name": "مهند مروان عبدالعزيز القبي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010025",
+    "seat_full": "010025"
+  },
+  {
+    "national_id": "1165334473",
+    "name": "نايف عبدالله محمد الحربي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010026",
+    "seat_full": "010026"
+  },
+  {
+    "national_id": "1151331525",
+    "name": "هيثم علوان علي الغامدي",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010027",
+    "seat_full": "010027"
+  },
+  {
+    "national_id": "1150682290",
+    "name": "هيثم محمد بن علي الشهري",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "010028",
+    "seat_full": "010028"
+  },
+  {
+    "national_id": "1152094585",
+    "name": "وسام عايض شامي عسيري",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010029",
+    "seat_full": "010029"
+  },
+  {
+    "national_id": "1153502164",
+    "name": "وسام يحي علي خبراني",
+    "grade": "الأول الثانوي",
+    "class": "1",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010030",
+    "seat_full": "010030"
+  },
+  {
+    "national_id": "1149948471",
+    "name": "أحمد فواز سعيد الجلوي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010031",
+    "seat_full": "010031"
+  },
+  {
+    "national_id": "1149871723",
+    "name": "الوليد عائض بن ناصر الاسمري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010032",
+    "seat_full": "010032"
+  },
+  {
+    "national_id": "1150952198",
+    "name": "باسم سعد حسين السفري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010033",
+    "seat_full": "010033"
+  },
+  {
+    "national_id": "1152441687",
+    "name": "حسام ابراهيم حسن ابراهيم",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010034",
+    "seat_full": "010034"
+  },
+  {
+    "national_id": "1150745774",
+    "name": "حسام سمحان ابن مجدوع العرياني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010035",
+    "seat_full": "010035"
+  },
+  {
+    "national_id": "1158236149",
+    "name": "رائد وليد حسين ال ابوطالب",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010036",
+    "seat_full": "010036"
+  },
+  {
+    "national_id": "1153212293",
+    "name": "رامي علي بن عون العرياني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010037",
+    "seat_full": "010037"
+  },
+  {
+    "national_id": "1177247523",
+    "name": "سليمان بركات احمد طواش",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010038",
+    "seat_full": "010038"
+  },
+  {
+    "national_id": "1151102173",
+    "name": "سيف عبدالعزيز عوض المالكي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010039",
+    "seat_full": "010039"
+  },
+  {
+    "national_id": "1150056669",
+    "name": "شادي عنتر حسن هبه",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010040",
+    "seat_full": "010040"
+  },
+  {
+    "national_id": "1150112017",
+    "name": "عامر بن محمد بن عامر ال غانم",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010041",
+    "seat_full": "010041"
+  },
+  {
+    "national_id": "1147173783",
+    "name": "عبدالاله ماضي بن منيجل السبيعي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "010042",
+    "seat_full": "010042"
+  },
+  {
+    "national_id": "2291435978",
+    "name": "عبدالرحمن سالم محمد المصباحي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010043",
+    "seat_full": "010043"
+  },
+  {
+    "national_id": "2297701555",
+    "name": "عبدالرحمن وديع عبده مزجاجي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010044",
+    "seat_full": "010044"
+  },
+  {
+    "national_id": "1150912572",
+    "name": "عبدالله عائض عبدالله الشمراني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010045",
+    "seat_full": "010045"
+  },
+  {
+    "national_id": "1152340558",
+    "name": "عبدالله نايف مسلط البقمي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010046",
+    "seat_full": "010046"
+  },
+  {
+    "national_id": "1154079816",
+    "name": "عبدالمجيد عبدالله معلا العمري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010047",
+    "seat_full": "010047"
+  },
+  {
+    "national_id": "1156116962",
+    "name": "علي محمد علي حكمي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010048",
+    "seat_full": "010048"
+  },
+  {
+    "national_id": "1151455472",
+    "name": "علي يحيى علي الزبيدي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010049",
+    "seat_full": "010049"
+  },
+  {
+    "national_id": "5674906",
+    "name": "عماد احمد المحمد -",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010050",
+    "seat_full": "010050"
+  },
+  {
+    "national_id": "1149922864",
+    "name": "عمار امصير سالم العماري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010051",
+    "seat_full": "010051"
+  },
+  {
+    "national_id": "1153137250",
+    "name": "عمر حسن عمر الشاعري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010052",
+    "seat_full": "010052"
+  },
+  {
+    "national_id": "1151126990",
+    "name": "عيسى عادل عيسي هزازي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010053",
+    "seat_full": "010053"
+  },
+  {
+    "national_id": "1164477398",
+    "name": "فارس بالقاسم هندي الشمراني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010054",
+    "seat_full": "010054"
+  },
+  {
+    "national_id": "1151215835",
+    "name": "فارس طلال حمود الحربي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010055",
+    "seat_full": "010055"
+  },
+  {
+    "national_id": "1151933312",
+    "name": "فايز على فايز العماري",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "010056",
+    "seat_full": "010056"
+  },
+  {
+    "national_id": "1153684111",
+    "name": "فهد بندر ابراهيم الشيخي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010057",
+    "seat_full": "010057"
+  },
+  {
+    "national_id": "1152659866",
+    "name": "محمد تركي بن محمد جيلان",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010058",
+    "seat_full": "010058"
+  },
+  {
+    "national_id": "1152410864",
+    "name": "محمد حامد حميد الجهني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010059",
+    "seat_full": "010059"
+  },
+  {
+    "national_id": "1154674244",
+    "name": "محمد صالح بن علي الحارثي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010060",
+    "seat_full": "010060"
+  },
+  {
+    "national_id": "1151766449",
+    "name": "محمد عمر محمد السلامي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010061",
+    "seat_full": "010061"
+  },
+  {
+    "national_id": "1158390334",
+    "name": "محمد موسي بن عبدالله العبدلي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010062",
+    "seat_full": "010062"
+  },
+  {
+    "national_id": "1149561555",
+    "name": "نايف احمد محمد القرني",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010063",
+    "seat_full": "010063"
+  },
+  {
+    "national_id": "1148819665",
+    "name": "هشام صلاح محمد خواجي",
+    "grade": "الأول الثانوي",
+    "class": "2",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010064",
+    "seat_full": "010064"
+  },
+  {
+    "national_id": "1157242429",
+    "name": "أحمد صالح بن دنفان الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010065",
+    "seat_full": "010065"
+  },
+  {
+    "national_id": "1152160998",
+    "name": "أنس عبدالله بن حامد العمري",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010066",
+    "seat_full": "010066"
+  },
+  {
+    "national_id": "1149484055",
+    "name": "ابراهيم أسامه مسلم الحربي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010067",
+    "seat_full": "010067"
+  },
+  {
+    "national_id": "1162717712",
+    "name": "ابراهيم محمد ابراهيم الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010068",
+    "seat_full": "010068"
+  },
+  {
+    "national_id": "2288672245",
+    "name": "انس عوض عبد ربه عوض",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010069",
+    "seat_full": "010069"
+  },
+  {
+    "national_id": "1152643241",
+    "name": "بتال ايمن حاسن العرياني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "010070",
+    "seat_full": "010070"
+  },
+  {
+    "national_id": "1150935458",
+    "name": "بدر عطيه بن عبيد السهيمي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010071",
+    "seat_full": "010071"
+  },
+  {
+    "national_id": "12121430",
+    "name": "بسام فواز عبدالله القرني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010072",
+    "seat_full": "010072"
+  },
+  {
+    "national_id": "1159676533",
+    "name": "تركي محمد حسن ياقوت",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010073",
+    "seat_full": "010073"
+  },
+  {
+    "national_id": "1153926330",
+    "name": "خالد سامي مسفر الشمراني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010074",
+    "seat_full": "010074"
+  },
+  {
+    "national_id": "1152407019",
+    "name": "خالد علي مريع زبرقي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010075",
+    "seat_full": "010075"
+  },
+  {
+    "national_id": "1146626658",
+    "name": "راكان يحيى عبدالله عصبي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010076",
+    "seat_full": "010076"
+  },
+  {
+    "national_id": "1149732636",
+    "name": "ريان محمد ابراهيم الشيخي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010077",
+    "seat_full": "010077"
+  },
+  {
+    "national_id": "1149289397",
+    "name": "زياد ياسر حميد الحربي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010078",
+    "seat_full": "010078"
+  },
+  {
+    "national_id": "1152572275",
+    "name": "سامر فهد جابر القرني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010079",
+    "seat_full": "010079"
+  },
+  {
+    "national_id": "1152572267",
+    "name": "ساهر فهد جابر القرني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010080",
+    "seat_full": "010080"
+  },
+  {
+    "national_id": "1149738476",
+    "name": "سعيد عبدالله سعيد العمري",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010081",
+    "seat_full": "010081"
+  },
+  {
+    "national_id": "1151075114",
+    "name": "عبدالرحمن أحمد عبدالرحمن الزبيدي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010082",
+    "seat_full": "010082"
+  },
+  {
+    "national_id": "1155436148",
+    "name": "عبدالرحمن عبدالله علي المنتشري",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010083",
+    "seat_full": "010083"
+  },
+  {
+    "national_id": "1150322640",
+    "name": "عبدالعزيز بندر بن مقبل الحربي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "010084",
+    "seat_full": "010084"
+  },
+  {
+    "national_id": "1151794318",
+    "name": "عبدالله الحسين عبدالله القرني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010085",
+    "seat_full": "010085"
+  },
+  {
+    "national_id": "1152643191",
+    "name": "عزام ايمن حاسن العرياني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010086",
+    "seat_full": "010086"
+  },
+  {
+    "national_id": "1151234679",
+    "name": "عمر يحي عمر الصبياني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010087",
+    "seat_full": "010087"
+  },
+  {
+    "national_id": "1149962753",
+    "name": "فواز محمد موسى الزبيدي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010088",
+    "seat_full": "010088"
+  },
+  {
+    "national_id": "9683735500",
+    "name": "متعب محسن عبود العمودي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010089",
+    "seat_full": "010089"
+  },
+  {
+    "national_id": "1150320065",
+    "name": "محمد احمد صالح الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010090",
+    "seat_full": "010090"
+  },
+  {
+    "national_id": "1150765764",
+    "name": "محمد عبدالله بخيت الحربي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010091",
+    "seat_full": "010091"
+  },
+  {
+    "national_id": "1148982786",
+    "name": "محمد علي صالح الحارثي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010092",
+    "seat_full": "010092"
+  },
+  {
+    "national_id": "1153447345",
+    "name": "محمد عمر محمد حبادي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010093",
+    "seat_full": "010093"
+  },
+  {
+    "national_id": "1149540096",
+    "name": "مشاري احمد ابن حسان المحمودي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010094",
+    "seat_full": "010094"
+  },
+  {
+    "national_id": "1151517297",
+    "name": "هادي يحي محمد ابوالسن",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010095",
+    "seat_full": "010095"
+  },
+  {
+    "national_id": "2275420202",
+    "name": "هتان هاني محمود الحطامي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010096",
+    "seat_full": "010096"
+  },
+  {
+    "national_id": "1153623168",
+    "name": "وائل احمد محمد الغامدي",
+    "grade": "الأول الثانوي",
+    "class": "3",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010097",
+    "seat_full": "010097"
+  },
+  {
+    "national_id": "1153747827",
+    "name": "أيهم محمد ابراهيم مدخلي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "010098",
+    "seat_full": "010098"
+  },
+  {
+    "national_id": "1153065311",
+    "name": "احمد عبدالرحمن بن دخيل الله الصمداني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010099",
+    "seat_full": "010099"
+  },
+  {
+    "national_id": "1153249147",
+    "name": "احمد عزيز عبدالله الشهري",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010100",
+    "seat_full": "010100"
+  },
+  {
+    "national_id": "1154072738",
+    "name": "الحسين عبدالرحمن عبدالله البركاتي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010101",
+    "seat_full": "010101"
+  },
+  {
+    "national_id": "1147487308",
+    "name": "اياد علي ابوطالب حمدي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010102",
+    "seat_full": "010102"
+  },
+  {
+    "national_id": "1150974291",
+    "name": "اياد يحى محب الربعي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010103",
+    "seat_full": "010103"
+  },
+  {
+    "national_id": "1187886229",
+    "name": "تركي غريب مقدم البيشي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010104",
+    "seat_full": "010104"
+  },
+  {
+    "national_id": "2304783430",
+    "name": "جسار ايمن قايد المصباحي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010105",
+    "seat_full": "010105"
+  },
+  {
+    "national_id": "1152989933",
+    "name": "جواد سمير عوض الشهري",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010106",
+    "seat_full": "010106"
+  },
+  {
+    "national_id": "1174371714",
+    "name": "حامد مبارك سيف السبيعي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010107",
+    "seat_full": "010107"
+  },
+  {
+    "national_id": "1152893473",
+    "name": "ريان خالد محسن علي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010108",
+    "seat_full": "010108"
+  },
+  {
+    "national_id": "2410408757",
+    "name": "ريان عبدالجبار - فاروق احمد",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010109",
+    "seat_full": "010109"
+  },
+  {
+    "national_id": "2315413324",
+    "name": "سالم احمد سالم صبي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010110",
+    "seat_full": "010110"
+  },
+  {
+    "national_id": "1179378391",
+    "name": "سعد حمد ابن عبدالله الشيباني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010111",
+    "seat_full": "010111"
+  },
+  {
+    "national_id": "1153633639",
+    "name": "سليمان خالد علي شعبي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "010112",
+    "seat_full": "010112"
+  },
+  {
+    "national_id": "1151886429",
+    "name": "سند صالح عطيه العصماني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010113",
+    "seat_full": "010113"
+  },
+  {
+    "national_id": "1150330874",
+    "name": "عبدالاله عبدالله بن حسن عامري",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010114",
+    "seat_full": "010114"
+  },
+  {
+    "national_id": "1155656836",
+    "name": "عبدالرحمن علي عبدالله السميري",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010115",
+    "seat_full": "010115"
+  },
+  {
+    "national_id": "1151791926",
+    "name": "عبدالله علي بن عبدالله القرني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010116",
+    "seat_full": "010116"
+  },
+  {
+    "national_id": "1156256271",
+    "name": "عبدالوهاب ابراهيم احمد الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010117",
+    "seat_full": "010117"
+  },
+  {
+    "national_id": "1150414116",
+    "name": "فارس احمد علي الاسود",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010118",
+    "seat_full": "010118"
+  },
+  {
+    "national_id": "1154179889",
+    "name": "فيصل احمد محمد القرني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010119",
+    "seat_full": "010119"
+  },
+  {
+    "national_id": "1150195996",
+    "name": "فيصل موسي معيض القرني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010120",
+    "seat_full": "010120"
+  },
+  {
+    "national_id": "1148388174",
+    "name": "قيس عبدالله احمد القيسي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010121",
+    "seat_full": "010121"
+  },
+  {
+    "national_id": "1150673182",
+    "name": "محمد احمد بن محمد السهيمي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010122",
+    "seat_full": "010122"
+  },
+  {
+    "national_id": "1151103734",
+    "name": "محمد جارالله بن احمد العبدلي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010123",
+    "seat_full": "010123"
+  },
+  {
+    "national_id": "1152780316",
+    "name": "محمد خالد محمد الحربي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010124",
+    "seat_full": "010124"
+  },
+  {
+    "national_id": "1149845172",
+    "name": "محمد نايف صالح الجدعاني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010125",
+    "seat_full": "010125"
+  },
+  {
+    "national_id": "1150992707",
+    "name": "محمد يحي محمد مبهي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "010126",
+    "seat_full": "010126"
+  },
+  {
+    "national_id": "1153742448",
+    "name": "وليد احمد ابراهيم الشيخي",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010127",
+    "seat_full": "010127"
+  },
+  {
+    "national_id": "2287937177",
+    "name": "وليد محمد احمد الديني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010128",
+    "seat_full": "010128"
+  },
+  {
+    "national_id": "1155872847",
+    "name": "ياسر علي عبدالله القرني",
+    "grade": "الأول الثانوي",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010129",
+    "seat_full": "010129"
+  },
+  {
+    "national_id": "1158858835",
+    "name": "أمجد فؤاد عبدالله حمدي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010130",
+    "seat_full": "010130"
+  },
+  {
+    "national_id": "1152675615",
+    "name": "احمد زياد بن احمد السهيمي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010131",
+    "seat_full": "010131"
+  },
+  {
+    "national_id": "1153597016",
+    "name": "الياس يحيى بن علي شعبي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010132",
+    "seat_full": "010132"
+  },
+  {
+    "national_id": "1150227740",
+    "name": "تركي حسن عائض الحربي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010133",
+    "seat_full": "010133"
+  },
+  {
+    "national_id": "1156571307",
+    "name": "ثامر عبدالله علي الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010134",
+    "seat_full": "010134"
+  },
+  {
+    "national_id": "1154260176",
+    "name": "جاسر عبدالله بخيت الثعلبي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010135",
+    "seat_full": "010135"
+  },
+  {
+    "national_id": "1148565128",
+    "name": "جاسم عبدالله بن علي الغامدي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010136",
+    "seat_full": "010136"
+  },
+  {
+    "national_id": "1151509500",
+    "name": "حامد زاهر حامد الشهري",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010137",
+    "seat_full": "010137"
+  },
+  {
+    "national_id": "1150224663",
+    "name": "حسن عثمان علي حكمي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010138",
+    "seat_full": "010138"
+  },
+  {
+    "national_id": "1151580378",
+    "name": "خالد ابراهيم عبدالله الشيخي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010139",
+    "seat_full": "010139"
+  },
+  {
+    "national_id": "1152742175",
+    "name": "خالد عبدالله عوض الشهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "010140",
+    "seat_full": "010140"
+  },
+  {
+    "national_id": "1151024245",
+    "name": "رازي ثامر محمد حريصي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010141",
+    "seat_full": "010141"
+  },
+  {
+    "national_id": "1153978075",
+    "name": "راكان سامر عبده مطري",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010142",
+    "seat_full": "010142"
+  },
+  {
+    "national_id": "1154236978",
+    "name": "رضا يحيى عبدالله عصبي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010143",
+    "seat_full": "010143"
+  },
+  {
+    "national_id": "0160519235",
+    "name": "رضوان خالد عبدربه النسي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010144",
+    "seat_full": "010144"
+  },
+  {
+    "national_id": "1150758959",
+    "name": "زياد عبدالله فايز العرياني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010145",
+    "seat_full": "010145"
+  },
+  {
+    "national_id": "1151152640",
+    "name": "سعود محمد حسن الفيفي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010146",
+    "seat_full": "010146"
+  },
+  {
+    "national_id": "1152283139",
+    "name": "عبدالرحمن علي عبدالله مكين",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010147",
+    "seat_full": "010147"
+  },
+  {
+    "national_id": "1170929606",
+    "name": "عبدالله زهير حسن الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010148",
+    "seat_full": "010148"
+  },
+  {
+    "national_id": "1149872515",
+    "name": "عبدالله عبدالرحمن محمد الحاتمي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010149",
+    "seat_full": "010149"
+  },
+  {
+    "national_id": "1150632097",
+    "name": "عبدالمجيد بن اسماعيل بن محمد البدري العلوي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010150",
+    "seat_full": "010150"
+  },
+  {
+    "national_id": "1149582981",
+    "name": "علي يحى علي الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010151",
+    "seat_full": "010151"
+  },
+  {
+    "national_id": "1151948757",
+    "name": "عماد محمد ابوراس الزبيدي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010152",
+    "seat_full": "010152"
+  },
+  {
+    "national_id": "1150227781",
+    "name": "عيسى حسن عائض الحربي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010153",
+    "seat_full": "010153"
+  },
+  {
+    "national_id": "1151000336",
+    "name": "فارس علي احمد الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "010154",
+    "seat_full": "010154"
+  },
+  {
+    "national_id": "1152163034",
+    "name": "فراس عبدالفتاح اسماعيل مغلس",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010155",
+    "seat_full": "010155"
+  },
+  {
+    "national_id": "1150234886",
+    "name": "مؤيد احمد حمد حكمي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010156",
+    "seat_full": "010156"
+  },
+  {
+    "national_id": "1159169786",
+    "name": "مؤيد هاني محمد نحاس",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010157",
+    "seat_full": "010157"
+  },
+  {
+    "national_id": "1144827373",
+    "name": "محمد عبدالله محمد الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010158",
+    "seat_full": "010158"
+  },
+  {
+    "national_id": "1165704329",
+    "name": "محمد عبده خميس الزبيدي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010159",
+    "seat_full": "010159"
+  },
+  {
+    "national_id": "1146404874",
+    "name": "محمد علي عبدالله عتودي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010160",
+    "seat_full": "010160"
+  },
+  {
+    "national_id": "1149922013",
+    "name": "مروان محمد عبدالله الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010161",
+    "seat_full": "010161"
+  },
+  {
+    "national_id": "1152153027",
+    "name": "معاذ حامد محمد العيسي",
+    "grade": "الأول الثانوي",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010162",
+    "seat_full": "010162"
+  },
+  {
+    "national_id": "1151889647",
+    "name": "أشرف عصام فيصل الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010163",
+    "seat_full": "010163"
+  },
+  {
+    "national_id": "1155028002",
+    "name": "احمد ابراهيم احمد صيقل",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010164",
+    "seat_full": "010164"
+  },
+  {
+    "national_id": "1154034795",
+    "name": "احمد عبدالرحمن اسماعيل زائري",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010165",
+    "seat_full": "010165"
+  },
+  {
+    "national_id": "1150627972",
+    "name": "الوليد عمر علي الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010166",
+    "seat_full": "010166"
+  },
+  {
+    "national_id": "1159781044",
+    "name": "اياد سعيد احمد العيسي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "010167",
+    "seat_full": "010167"
+  },
+  {
+    "national_id": "1148982406",
+    "name": "تركي علي زاهر الهنيدي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010168",
+    "seat_full": "010168"
+  },
+  {
+    "national_id": "1161078447",
+    "name": "جسار عبدالله مقبول الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010169",
+    "seat_full": "010169"
+  },
+  {
+    "national_id": "1152395131",
+    "name": "حسام علي بن بلغيث الهندي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010170",
+    "seat_full": "010170"
+  },
+  {
+    "national_id": "1188315954",
+    "name": "حسن محمد جابرهامل عضلي مباركي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010171",
+    "seat_full": "010171"
+  },
+  {
+    "national_id": "1143776803",
+    "name": "خالد موسى يحي قارضه",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010172",
+    "seat_full": "010172"
+  },
+  {
+    "national_id": "2299094157",
+    "name": "رائف خليل علي غالب",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010173",
+    "seat_full": "010173"
+  },
+  {
+    "national_id": "1150476024",
+    "name": "زياد عبدالله حسن الشمراني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010174",
+    "seat_full": "010174"
+  },
+  {
+    "national_id": "1153082167",
+    "name": "سعد محمد احمد الثعلبي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010175",
+    "seat_full": "010175"
+  },
+  {
+    "national_id": "1150597100",
+    "name": "سعيد هاشم سعيد الشريف",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010176",
+    "seat_full": "010176"
+  },
+  {
+    "national_id": "1153662885",
+    "name": "سليم حميد العفين العديني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010177",
+    "seat_full": "010177"
+  },
+  {
+    "national_id": "1159901691",
+    "name": "صالح مصلح حميد البرطيخي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010178",
+    "seat_full": "010178"
+  },
+  {
+    "national_id": "1149445403",
+    "name": "عبدالرحمن عايض بن محمود حجازي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010179",
+    "seat_full": "010179"
+  },
+  {
+    "national_id": "1155869991",
+    "name": "عبدالرحمن عبدالله نافع البسيسي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "010180",
+    "seat_full": "010180"
+  },
+  {
+    "national_id": "1159078409",
+    "name": "عبدالرحمن علي احمد العجلاني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010181",
+    "seat_full": "010181"
+  },
+  {
+    "national_id": "1153067820",
+    "name": "عبدالرحمن وليد حسن بحرين",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010182",
+    "seat_full": "010182"
+  },
+  {
+    "national_id": "1152380257",
+    "name": "عبدالعزيز ابراهيم بن علي المرحبي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010183",
+    "seat_full": "010183"
+  },
+  {
+    "national_id": "1149641720",
+    "name": "عبدالله جابر عبدالله الكثيري",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010184",
+    "seat_full": "010184"
+  },
+  {
+    "national_id": "1150674966",
+    "name": "عبدالله شعيب عبدالله العرياني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010185",
+    "seat_full": "010185"
+  },
+  {
+    "national_id": "1151094875",
+    "name": "عبدالله هياس عبدالله الزهراني",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010186",
+    "seat_full": "010186"
+  },
+  {
+    "national_id": "1153585235",
+    "name": "علي جابر علي الغبيشي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010187",
+    "seat_full": "010187"
+  },
+  {
+    "national_id": "1150774980",
+    "name": "علي يحيى ابن علي الناشري",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010188",
+    "seat_full": "010188"
+  },
+  {
+    "national_id": "4146209996",
+    "name": "فيصل خالد ناصر حسين",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010189",
+    "seat_full": "010189"
+  },
+  {
+    "national_id": "2354593234",
+    "name": "قصي جميل محمد حسين",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010190",
+    "seat_full": "010190"
+  },
+  {
+    "national_id": "2298159787",
+    "name": "محمد يعقوب - تاج محمد",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010191",
+    "seat_full": "010191"
+  },
+  {
+    "national_id": "1158239457",
+    "name": "نايف محمد حسين البسيسي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010192",
+    "seat_full": "010192"
+  },
+  {
+    "national_id": "1152079289",
+    "name": "هادي يحي هادي حكمي",
+    "grade": "الأول الثانوي",
+    "class": "6",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "010193",
+    "seat_full": "010193"
+  },
+  {
+    "national_id": "1149200188",
+    "name": "احمد عبدالله محمد احمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064001",
+    "seat_full": "064001"
+  },
+  {
+    "national_id": "1146999253",
+    "name": "احمد علي احمد الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064002",
+    "seat_full": "064002"
+  },
+  {
+    "national_id": "1146136047",
+    "name": "تركي حسن عويضه الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064003",
+    "seat_full": "064003"
+  },
+  {
+    "national_id": "1148491069",
+    "name": "جسار دخيل الله موسى السفري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064004",
+    "seat_full": "064004"
+  },
+  {
+    "national_id": "1147683369",
+    "name": "حامد علي حامد الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064005",
+    "seat_full": "064005"
+  },
+  {
+    "national_id": "4132291008",
+    "name": "رضوان يوسف رضوان احمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064006",
+    "seat_full": "064006"
+  },
+  {
+    "national_id": "2289981603",
+    "name": "ريان حبيب نصير محمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064007",
+    "seat_full": "064007"
+  },
+  {
+    "national_id": "2284037039",
+    "name": "سعود طلال منصور عبدالله",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064008",
+    "seat_full": "064008"
+  },
+  {
+    "national_id": "2285513509",
+    "name": "سلطان مصطفى صالح الاجرب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064009",
+    "seat_full": "064009"
+  },
+  {
+    "national_id": "1146821077",
+    "name": "صالح علي صالح العرياني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064010",
+    "seat_full": "064010"
+  },
+  {
+    "national_id": "1149216812",
+    "name": "طلال عبداللطيف احمد الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064011",
+    "seat_full": "064011"
+  },
+  {
+    "national_id": "4673653350",
+    "name": "عبدالعزيز فهد علي الحامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064012",
+    "seat_full": "064012"
+  },
+  {
+    "national_id": "1147234270",
+    "name": "عبدالله يحي بن احمد طالبى",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064013",
+    "seat_full": "064013"
+  },
+  {
+    "national_id": "2283478903",
+    "name": "علي مكي علي محجوب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064014",
+    "seat_full": "064014"
+  },
+  {
+    "national_id": "2280137841",
+    "name": "فراس علي احمد معوظه",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "4",
+    "committee_location": "فصل 11",
+    "seat": "064015",
+    "seat_full": "064015"
+  },
+  {
+    "national_id": "1146697139",
+    "name": "فهد جودالله فايز المعاوي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064016",
+    "seat_full": "064016"
+  },
+  {
+    "national_id": "1158388346",
+    "name": "فهد حسن عبدالرحمن الصعب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064017",
+    "seat_full": "064017"
+  },
+  {
+    "national_id": "1148767179",
+    "name": "مازن سمير عوض الشهري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064018",
+    "seat_full": "064018"
+  },
+  {
+    "national_id": "4123645006",
+    "name": "محمد حسن إبراهيم حسن",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064019",
+    "seat_full": "064019"
+  },
+  {
+    "national_id": "1146419740",
+    "name": "محمد سعيد هزاع السهلي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064020",
+    "seat_full": "064020"
+  },
+  {
+    "national_id": "1169240841",
+    "name": "محمد صالح عبدالله الشيخي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064021",
+    "seat_full": "064021"
+  },
+  {
+    "national_id": "1151154570",
+    "name": "محمد مستور موري حسين",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064022",
+    "seat_full": "064022"
+  },
+  {
+    "national_id": "2283223812",
+    "name": "معاذ سالم ربيع زين",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064023",
+    "seat_full": "064023"
+  },
+  {
+    "national_id": "1148263369",
+    "name": "معاذ مساوى محمد راجحي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064024",
+    "seat_full": "064024"
+  },
+  {
+    "national_id": "1147447815",
+    "name": "معيلي يوسف بن معيلي السفري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064025",
+    "seat_full": "064025"
+  },
+  {
+    "national_id": "1146648710",
+    "name": "ناصر صالح حسن الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064026",
+    "seat_full": "064026"
+  },
+  {
+    "national_id": "00646356",
+    "name": "نواف عبدالرقيب بجاش الدبعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064027",
+    "seat_full": "064027"
+  },
+  {
+    "national_id": "1149435859",
+    "name": "يزن عبدالله محمد ابوالسن",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064028",
+    "seat_full": "064028"
+  },
+  {
+    "national_id": "1148963810",
+    "name": "يزن علي محمد راجحي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064029",
+    "seat_full": "064029"
+  },
+  {
+    "national_id": "2365755517",
+    "name": "يونس نذير أحمد - بهاول",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "1",
+    "committee": "5",
+    "committee_location": "فصل 12",
+    "seat": "064030",
+    "seat_full": "064030"
+  },
+  {
+    "national_id": "0160238935",
+    "name": "ابراهيم علي محمد التميمي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064031",
+    "seat_full": "064031"
+  },
+  {
+    "national_id": "1146792468",
+    "name": "احمد محمد عبدالله الشهابي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064032",
+    "seat_full": "064032"
+  },
+  {
+    "national_id": "1150673646",
+    "name": "احمد هاشم محمد الراشدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064033",
+    "seat_full": "064033"
+  },
+  {
+    "national_id": "2365755525",
+    "name": "اسماعيل نذير أحمد - بهاول",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064034",
+    "seat_full": "064034"
+  },
+  {
+    "national_id": "1153180342",
+    "name": "اياد علي حسن الجيزاني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064035",
+    "seat_full": "064035"
+  },
+  {
+    "national_id": "2353329747",
+    "name": "تيم جميل محمد حسين",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064036",
+    "seat_full": "064036"
+  },
+  {
+    "national_id": "1145053292",
+    "name": "حسن ابوطالب حسن حمدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064037",
+    "seat_full": "064037"
+  },
+  {
+    "national_id": "1144779897",
+    "name": "خالد صالح بن ناصر السبيعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064038",
+    "seat_full": "064038"
+  },
+  {
+    "national_id": "1146799422",
+    "name": "خالد يحي محمد طالبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064039",
+    "seat_full": "064039"
+  },
+  {
+    "national_id": "1148992991",
+    "name": "سلطان ابراهيم عيسى الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064040",
+    "seat_full": "064040"
+  },
+  {
+    "national_id": "1149139907",
+    "name": "سلمان محمد خبتي الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064041",
+    "seat_full": "064041"
+  },
+  {
+    "national_id": "1148328907",
+    "name": "سليمان اكرم سليمان غروي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064042",
+    "seat_full": "064042"
+  },
+  {
+    "national_id": "1144101365",
+    "name": "صالح حامد بريك حميد الكعيكي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064043",
+    "seat_full": "064043"
+  },
+  {
+    "national_id": "1173303221",
+    "name": "صالح محمد مبارك الرشيدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064044",
+    "seat_full": "064044"
+  },
+  {
+    "national_id": "1148599440",
+    "name": "صالح ياسر ابن صالح بالشرم",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "6",
+    "committee_location": "فصل 13",
+    "seat": "064045",
+    "seat_full": "064045"
+  },
+  {
+    "national_id": "2277654774",
+    "name": "عبدالله احمد عبدالرحمن بلفقيه",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064046",
+    "seat_full": "064046"
+  },
+  {
+    "national_id": "1148553454",
+    "name": "عبدالله علي بركات السيد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064047",
+    "seat_full": "064047"
+  },
+  {
+    "national_id": "2289566644",
+    "name": "غازي فهد غازي سعيد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064048",
+    "seat_full": "064048"
+  },
+  {
+    "national_id": "1161154263",
+    "name": "فارس ثامر محمد مجملي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064049",
+    "seat_full": "064049"
+  },
+  {
+    "national_id": "4150628271",
+    "name": "فراس هاني عبدالله باحطاب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064050",
+    "seat_full": "064050"
+  },
+  {
+    "national_id": "1146482367",
+    "name": "فيصل عبده احمد العسيري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064051",
+    "seat_full": "064051"
+  },
+  {
+    "national_id": "1147176737",
+    "name": "ماهر عبده علي مباركي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064052",
+    "seat_full": "064052"
+  },
+  {
+    "national_id": "1148801317",
+    "name": "متعب جمعان سرور الجيزاني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064053",
+    "seat_full": "064053"
+  },
+  {
+    "national_id": "1144624929",
+    "name": "محمد ابراهيم بن الحسن المعشي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064054",
+    "seat_full": "064054"
+  },
+  {
+    "national_id": "1437362705",
+    "name": "محمد احمد محمد مثنى هادي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064055",
+    "seat_full": "064055"
+  },
+  {
+    "national_id": "1149096669",
+    "name": "محمد حسن محمد القرنى",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064056",
+    "seat_full": "064056"
+  },
+  {
+    "national_id": "1146793227",
+    "name": "محمد خليل احمد الربعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064057",
+    "seat_full": "064057"
+  },
+  {
+    "national_id": "1149896506",
+    "name": "محمد صالح بن سالم السهيمي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064058",
+    "seat_full": "064058"
+  },
+  {
+    "national_id": "1147304057",
+    "name": "محمد على بركات الناشري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064059",
+    "seat_full": "064059"
+  },
+  {
+    "national_id": "1147103616",
+    "name": "محمد على بن أحمد العيسي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "7",
+    "committee_location": "فصل 4",
+    "seat": "064060",
+    "seat_full": "064060"
+  },
+  {
+    "national_id": "1150286274",
+    "name": "ياسر حسن احمد حمدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "2",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064061",
+    "seat_full": "064061"
+  },
+  {
+    "national_id": "1152535710",
+    "name": "أحمد متعب عبدالله الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064062",
+    "seat_full": "064062"
+  },
+  {
+    "national_id": "2321893733",
+    "name": "ابراهيم خليل - المزروعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064063",
+    "seat_full": "064063"
+  },
+  {
+    "national_id": "1148991043",
+    "name": "اياد خالد محمد مخيي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064064",
+    "seat_full": "064064"
+  },
+  {
+    "national_id": "2286004839",
+    "name": "ايمن حسني يوسف عمران",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064065",
+    "seat_full": "064065"
+  },
+  {
+    "national_id": "2279531525",
+    "name": "باسم ماجد عياش قطاب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064066",
+    "seat_full": "064066"
+  },
+  {
+    "national_id": "1148476862",
+    "name": "بندر غازي بن احمد الشهابي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064067",
+    "seat_full": "064067"
+  },
+  {
+    "national_id": "1147137994",
+    "name": "تركي نايف مسلط البقمي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064068",
+    "seat_full": "064068"
+  },
+  {
+    "national_id": "1144685441",
+    "name": "ثامر عبدالله عابد الهلالي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064069",
+    "seat_full": "064069"
+  },
+  {
+    "national_id": "1148881103",
+    "name": "جاسر احمد جمعان الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064070",
+    "seat_full": "064070"
+  },
+  {
+    "national_id": "1147673873",
+    "name": "حسان محمد علي زبرقي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064071",
+    "seat_full": "064071"
+  },
+  {
+    "national_id": "1172449876",
+    "name": "رائد علي صالح الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064072",
+    "seat_full": "064072"
+  },
+  {
+    "national_id": "2376079360",
+    "name": "ريان جماح ابراهيم هاشم",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064073",
+    "seat_full": "064073"
+  },
+  {
+    "national_id": "1143982294",
+    "name": "سلطان علي بن صالح زهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "8",
+    "committee_location": "فصل 14",
+    "seat": "064074",
+    "seat_full": "064074"
+  },
+  {
+    "national_id": "1148861246",
+    "name": "سليمان خالد سليمان حندوب",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064075",
+    "seat_full": "064075"
+  },
+  {
+    "national_id": "2262585587",
+    "name": "صالح مصطفى صالح ناصر",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064076",
+    "seat_full": "064076"
+  },
+  {
+    "national_id": "0160498189",
+    "name": "عبدالرحمن ناجي قاسم احمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064077",
+    "seat_full": "064077"
+  },
+  {
+    "national_id": "1148166380",
+    "name": "عبدالعزيز عثمان يحيى السعن",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064078",
+    "seat_full": "064078"
+  },
+  {
+    "national_id": "1144827332",
+    "name": "علي صالح بن ناصر السبيعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064079",
+    "seat_full": "064079"
+  },
+  {
+    "national_id": "1147380826",
+    "name": "علي صالح علي المنتشري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064080",
+    "seat_full": "064080"
+  },
+  {
+    "national_id": "2281940227",
+    "name": "عمار احمد محمد محمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064081",
+    "seat_full": "064081"
+  },
+  {
+    "national_id": "2284395379",
+    "name": "فهد محمد صالح الحداد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064082",
+    "seat_full": "064082"
+  },
+  {
+    "national_id": "1146014798",
+    "name": "محمد ابراهيم زيلعى شرف",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064083",
+    "seat_full": "064083"
+  },
+  {
+    "national_id": "1144639307",
+    "name": "محمد ابراهيم هاشم الصمداني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064084",
+    "seat_full": "064084"
+  },
+  {
+    "national_id": "1145722037",
+    "name": "محمد بن علي بن محمد ال مرعي عسيري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064085",
+    "seat_full": "064085"
+  },
+  {
+    "national_id": "1148294380",
+    "name": "محمد بن ناصر بن علي الاسمري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064086",
+    "seat_full": "064086"
+  },
+  {
+    "national_id": "2279833046",
+    "name": "محمد عبدالرحمن عبده الحطامي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064087",
+    "seat_full": "064087"
+  },
+  {
+    "national_id": "1145364830",
+    "name": "محمد فائز بن صويلح السناني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "9",
+    "committee_location": "فصل 15",
+    "seat": "064088",
+    "seat_full": "064088"
+  },
+  {
+    "national_id": "3000086286",
+    "name": "مهدي محمد صادق علي محمد شفيع",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064089",
+    "seat_full": "064089"
+  },
+  {
+    "national_id": "8755729143",
+    "name": "نواف صالح أحمد الرشيدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064090",
+    "seat_full": "064090"
+  },
+  {
+    "national_id": "4123552269",
+    "name": "نواف وليد محمد العماري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064091",
+    "seat_full": "064091"
+  },
+  {
+    "national_id": "1148209560",
+    "name": "يزن دخيل الله بن غرم الله الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "3",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064092",
+    "seat_full": "064092"
+  },
+  {
+    "national_id": "1173169226",
+    "name": "أنس عبدالعزيز احمد سداح",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064093",
+    "seat_full": "064093"
+  },
+  {
+    "national_id": "1154240541",
+    "name": "احمد اسامه محمد مسرحي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064094",
+    "seat_full": "064094"
+  },
+  {
+    "national_id": "1146166804",
+    "name": "باسل احمد علي الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064095",
+    "seat_full": "064095"
+  },
+  {
+    "national_id": "1148102971",
+    "name": "حسام ياسين محسن عريشي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064096",
+    "seat_full": "064096"
+  },
+  {
+    "national_id": "1147602609",
+    "name": "حسان حسن حمدان الشهري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064097",
+    "seat_full": "064097"
+  },
+  {
+    "national_id": "1149293456",
+    "name": "راكان تركي علي الشيخي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064098",
+    "seat_full": "064098"
+  },
+  {
+    "national_id": "1146617665",
+    "name": "رشيد شداد رشيد المرحبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064099",
+    "seat_full": "064099"
+  },
+  {
+    "national_id": "1146716855",
+    "name": "زياد احمد جمعان الشهري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064100",
+    "seat_full": "064100"
+  },
+  {
+    "national_id": "1149072413",
+    "name": "زياد علوان بن عبيدالله الشمراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064101",
+    "seat_full": "064101"
+  },
+  {
+    "national_id": "1149116483",
+    "name": "سالم فهد عقيل القرني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "10",
+    "committee_location": "فصل 16",
+    "seat": "064102",
+    "seat_full": "064102"
+  },
+  {
+    "national_id": "2285075293",
+    "name": "سامي عثمان موسى محمد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064103",
+    "seat_full": "064103"
+  },
+  {
+    "national_id": "2268535826",
+    "name": "شادي وائل عبدالله الحطامي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064104",
+    "seat_full": "064104"
+  },
+  {
+    "national_id": "1149697425",
+    "name": "عبدالرحمن محمد بخيت المطيري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064105",
+    "seat_full": "064105"
+  },
+  {
+    "national_id": "1145355515",
+    "name": "عبدالرحمن وافي منقاش الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064106",
+    "seat_full": "064106"
+  },
+  {
+    "national_id": "1147066342",
+    "name": "عبدالعزيز علي بن عابد الحارثي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064107",
+    "seat_full": "064107"
+  },
+  {
+    "national_id": "1148358326",
+    "name": "عبدالكريم عبده بن احمد محنشي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064108",
+    "seat_full": "064108"
+  },
+  {
+    "national_id": "2281677340",
+    "name": "عبدالكريم عوض عبده حزام",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064109",
+    "seat_full": "064109"
+  },
+  {
+    "national_id": "4146079126",
+    "name": "عبدالكريم يحيى داود شرف",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064110",
+    "seat_full": "064110"
+  },
+  {
+    "national_id": "1142786266",
+    "name": "عبدالله حامد محمد الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064111",
+    "seat_full": "064111"
+  },
+  {
+    "national_id": "1146005986",
+    "name": "عبدالله متعب بن محمد الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064112",
+    "seat_full": "064112"
+  },
+  {
+    "national_id": "1145196828",
+    "name": "عبدالله مديني احمد العسيري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064113",
+    "seat_full": "064113"
+  },
+  {
+    "national_id": "1146277643",
+    "name": "عبدالمجيد محمد مصبح العمري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064114",
+    "seat_full": "064114"
+  },
+  {
+    "national_id": "0160230485",
+    "name": "عبدالوهاب بكري عبدالوهاب هائل",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064115",
+    "seat_full": "064115"
+  },
+  {
+    "national_id": "1141617991",
+    "name": "علي محمد علي الصبياني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "11",
+    "committee_location": "فصل 17",
+    "seat": "064116",
+    "seat_full": "064116"
+  },
+  {
+    "national_id": "4139714176",
+    "name": "عمر نبيل الخادم محمد الوجيه",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064117",
+    "seat_full": "064117"
+  },
+  {
+    "national_id": "1147455750",
+    "name": "غرم الله علي صالح الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064118",
+    "seat_full": "064118"
+  },
+  {
+    "national_id": "07121430",
+    "name": "فواز فتحي زيد علي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064119",
+    "seat_full": "064119"
+  },
+  {
+    "national_id": "1147613242",
+    "name": "مسعود منيف ذعار السبيعي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064120",
+    "seat_full": "064120"
+  },
+  {
+    "national_id": "1136923271",
+    "name": "معاذ عبدالله محمد المش",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064121",
+    "seat_full": "064121"
+  },
+  {
+    "national_id": "3000019205",
+    "name": "نواف نور حافظ ابو شامه",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064122",
+    "seat_full": "064122"
+  },
+  {
+    "national_id": "1145937684",
+    "name": "ياسر فواز عيد الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "4",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064123",
+    "seat_full": "064123"
+  },
+  {
+    "national_id": "1147282154",
+    "name": "ابراهيم بندر ابراهيم الشيخي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064124",
+    "seat_full": "064124"
+  },
+  {
+    "national_id": "2377844010",
+    "name": "ابراهيم فواد علي الشرفي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064125",
+    "seat_full": "064125"
+  },
+  {
+    "national_id": "1149438804",
+    "name": "احمد ابراهيم عيسي القبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064126",
+    "seat_full": "064126"
+  },
+  {
+    "national_id": "1149438770",
+    "name": "اياد ابراهيم عيسي القبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064127",
+    "seat_full": "064127"
+  },
+  {
+    "national_id": "1149635425",
+    "name": "بسام فارع بن خلف العتيبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064128",
+    "seat_full": "064128"
+  },
+  {
+    "national_id": "4135354498",
+    "name": "جياد محمد علي الأهدل",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064129",
+    "seat_full": "064129"
+  },
+  {
+    "national_id": "1147072357",
+    "name": "حسن علي سويد العبدلي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "12",
+    "committee_location": "فصل 18",
+    "seat": "064130",
+    "seat_full": "064130"
+  },
+  {
+    "national_id": "1154341596",
+    "name": "خالد احمد سعيد الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064131",
+    "seat_full": "064131"
+  },
+  {
+    "national_id": "1149434530",
+    "name": "خالد رشيد محمد المرحبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064132",
+    "seat_full": "064132"
+  },
+  {
+    "national_id": "1148972357",
+    "name": "خالد علي بن صالح الحارثي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064133",
+    "seat_full": "064133"
+  },
+  {
+    "national_id": "1148554353",
+    "name": "زياد محمد ابراهيم جعفري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064134",
+    "seat_full": "064134"
+  },
+  {
+    "national_id": "1148416470",
+    "name": "عامر رفعت احمد وهبان",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064135",
+    "seat_full": "064135"
+  },
+  {
+    "national_id": "2377844028",
+    "name": "عبدالرحمن فواد علي الشرفي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064136",
+    "seat_full": "064136"
+  },
+  {
+    "national_id": "1146376528",
+    "name": "عبدالرحمن محمد عبدالرحمن القرني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064137",
+    "seat_full": "064137"
+  },
+  {
+    "national_id": "1155495441",
+    "name": "عبدالرحمن موسى محمد السلامي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064138",
+    "seat_full": "064138"
+  },
+  {
+    "national_id": "2278759085",
+    "name": "عبدالرحيم محمد عمر بايزيد",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064139",
+    "seat_full": "064139"
+  },
+  {
+    "national_id": "1146473200",
+    "name": "عبدالكريم ابراهيم احمد الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064140",
+    "seat_full": "064140"
+  },
+  {
+    "national_id": "2270902667",
+    "name": "عبدالله عادل عبدالله الاحمدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064141",
+    "seat_full": "064141"
+  },
+  {
+    "national_id": "2279507756",
+    "name": "عبدالله محمد ابراهيم بامدحن",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064142",
+    "seat_full": "064142"
+  },
+  {
+    "national_id": "1146652712",
+    "name": "عبدالله موسى احمد الاسمري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064143",
+    "seat_full": "064143"
+  },
+  {
+    "national_id": "1144347356",
+    "name": "عبدالمجيد علي مرعي الشهري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "13",
+    "committee_location": "فصل 20",
+    "seat": "064144",
+    "seat_full": "064144"
+  },
+  {
+    "national_id": "1152352900",
+    "name": "علي سعيد علي الزهراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064145",
+    "seat_full": "064145"
+  },
+  {
+    "national_id": "1148782814",
+    "name": "علي محمد ابن علي العيسي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064146",
+    "seat_full": "064146"
+  },
+  {
+    "national_id": "1159432457",
+    "name": "عمار فواز بن محمد الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064147",
+    "seat_full": "064147"
+  },
+  {
+    "national_id": "1173193127",
+    "name": "فارس فيصل شنيف السلمي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064148",
+    "seat_full": "064148"
+  },
+  {
+    "national_id": "1147513822",
+    "name": "معاذ احمد علي الشمراني",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064149",
+    "seat_full": "064149"
+  },
+  {
+    "national_id": "1144641337",
+    "name": "مهند عثمان احمد جتيم",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064150",
+    "seat_full": "064150"
+  },
+  {
+    "national_id": "1148277856",
+    "name": "مويد طلال عوض المطيري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064151",
+    "seat_full": "064151"
+  },
+  {
+    "national_id": "1147034019",
+    "name": "ميسرة هاني محمد نحاس",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064152",
+    "seat_full": "064152"
+  },
+  {
+    "national_id": "1150175022",
+    "name": "نادر محمد سعيد الشهري",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064153",
+    "seat_full": "064153"
+  },
+  {
+    "national_id": "1148048810",
+    "name": "هيثم شامي بن شداد المرحبي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064154",
+    "seat_full": "064154"
+  },
+  {
+    "national_id": "1143156238",
+    "name": "وليد بن خميس بن سبيعي ال ساعد الغامدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064155",
+    "seat_full": "064155"
+  },
+  {
+    "national_id": "1161099740",
+    "name": "ياسين عطيه ياسين الهنيدي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064156",
+    "seat_full": "064156"
+  },
+  {
+    "national_id": "1148757378",
+    "name": "يوسف مخلد حسن الحربي",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "5",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064157",
+    "seat_full": "064157"
+  },
+  {
+    "national_id": "2077867410",
+    "name": "احمد برك احمد سالم",
+    "grade": "الثاني ثانوي المسار العام",
+    "class": "7",
+    "committee": "14",
+    "committee_location": "فصل 20",
+    "seat": "064158",
+    "seat_full": "064158"
+  },
+  {
+    "national_id": "1140593078",
+    "name": "أحمد مروعي أحمد المدني",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
@@ -150,8 +3520,8 @@
     "seat_full": "083001"
   },
   {
-    "national_id": "1140593078",
-    "name": "أحمد مروعي أحمد المدني",
+    "national_id": "1141199156",
+    "name": "احمد صالح موسى الكثيري",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "1",
@@ -250,158 +3620,18 @@
     "seat_full": "083011"
   },
   {
-    "national_id": "1150627972",
-    "name": "الوليد عمر علي الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010015",
-    "seat_full": "010015"
-  },
-  {
-    "national_id": "1153597016",
-    "name": "الياس يحيى بن علي شعبي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010016",
-    "seat_full": "010016"
-  },
-  {
-    "national_id": "1158858835",
-    "name": "أمجد فؤاد عبدالله حمدي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010017",
-    "seat_full": "010017"
-  },
-  {
-    "national_id": "1152160998",
-    "name": "أنس عبدالله بن حامد العمري",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010018",
-    "seat_full": "010018"
-  },
-  {
-    "national_id": "2288672245",
-    "name": "انس عوض عبد ربه عوض",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010019",
-    "seat_full": "010019"
-  },
-  {
-    "national_id": "1159781044",
-    "name": "اياد سعيد احمد العيسي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010020",
-    "seat_full": "010020"
-  },
-  {
-    "national_id": "1147487308",
-    "name": "اياد علي ابوطالب حمدي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010021",
-    "seat_full": "010021"
-  },
-  {
-    "national_id": "1150974291",
-    "name": "اياد يحى محب الربعي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010022",
-    "seat_full": "010022"
-  },
-  {
-    "national_id": "1153747827",
-    "name": "أيهم محمد ابراهيم مدخلي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010023",
-    "seat_full": "010023"
-  },
-  {
-    "national_id": "1150952198",
-    "name": "باسم سعد حسين السفري",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010024",
-    "seat_full": "010024"
-  },
-  {
-    "national_id": "1152643241",
-    "name": "بتال ايمن حاسن العرياني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010025",
-    "seat_full": "010025"
-  },
-  {
-    "national_id": "1150935458",
-    "name": "بدر عطيه بن عبيد السهيمي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010026",
-    "seat_full": "010026"
-  },
-  {
-    "national_id": "12121430",
-    "name": "بسام فواز عبدالله القرني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010027",
-    "seat_full": "010027"
-  },
-  {
-    "national_id": "1150227740",
-    "name": "تركي حسن عائض الحربي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "2",
-    "committee_location": "فصل 9",
-    "seat": "010028",
-    "seat_full": "010028"
-  },
-  {
     "national_id": "1162838161",
     "name": "زياد محمد عبدالله ثويتي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
-    "committee": "2",
-    "committee_location": "فصل 9",
+    "committee": "1",
+    "committee_location": "فصل 8",
     "seat": "083012",
     "seat_full": "083012"
   },
   {
-    "national_id": "1145281372",
-    "name": "سلمان احمد يحيى سليمان",
+    "national_id": "1151600499",
+    "name": "سامي فهد باخت الثعلبي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -410,8 +3640,8 @@
     "seat_full": "083013"
   },
   {
-    "national_id": "1143662375",
-    "name": "عبدالله احمد خميس الزهراني",
+    "national_id": "1145281372",
+    "name": "سلمان احمد يحيى سليمان",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -420,8 +3650,8 @@
     "seat_full": "083014"
   },
   {
-    "national_id": "1136553516",
-    "name": "عبدالله سليمان بن علي العديني",
+    "national_id": "1143662375",
+    "name": "عبدالله احمد خميس الزهراني",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -430,8 +3660,8 @@
     "seat_full": "083015"
   },
   {
-    "national_id": "1141320240",
-    "name": "عبدالله موسي بن عبدالله العبدلي",
+    "national_id": "1136553516",
+    "name": "عبدالله سليمان بن علي العديني",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -440,8 +3670,8 @@
     "seat_full": "083016"
   },
   {
-    "national_id": "1145374870",
-    "name": "عبيدالله عابد بن عبيدالله الصبحي",
+    "national_id": "1141320240",
+    "name": "عبدالله موسي بن عبدالله العبدلي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -450,8 +3680,8 @@
     "seat_full": "083017"
   },
   {
-    "national_id": "1144905518",
-    "name": "علي ابراهيم علي المرحبي",
+    "national_id": "1145374870",
+    "name": "عبيدالله عابد بن عبيدالله الصبحي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -460,8 +3690,8 @@
     "seat_full": "083018"
   },
   {
-    "national_id": "1158656395",
-    "name": "علي احمد محمد العبدلي",
+    "national_id": "1144905518",
+    "name": "علي ابراهيم علي المرحبي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -470,8 +3700,8 @@
     "seat_full": "083019"
   },
   {
-    "national_id": "1143030714",
-    "name": "عواد عويد عياد الرشيدي",
+    "national_id": "1158656395",
+    "name": "علي احمد محمد العبدلي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -480,8 +3710,8 @@
     "seat_full": "083020"
   },
   {
-    "national_id": "1138903511",
-    "name": "فيصل احمد ابراهيم الشيخي",
+    "national_id": "1143030714",
+    "name": "عواد عويد عياد الرشيدي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -490,8 +3720,8 @@
     "seat_full": "083021"
   },
   {
-    "national_id": "1139979221",
-    "name": "مؤيد محمد بن سالم زيلع",
+    "national_id": "1138903511",
+    "name": "فيصل احمد ابراهيم الشيخي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "2",
@@ -500,144 +3730,14 @@
     "seat_full": "083022"
   },
   {
-    "national_id": "1151809991",
-    "name": "تركي علوان حسين الغامدي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010029",
-    "seat_full": "010029"
-  },
-  {
-    "national_id": "1187886229",
-    "name": "تركي غريب مقدم البيشي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010030",
-    "seat_full": "010030"
-  },
-  {
-    "national_id": "1159676533",
-    "name": "تركي محمد حسن ياقوت",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010031",
-    "seat_full": "010031"
-  },
-  {
-    "national_id": "1156571307",
-    "name": "ثامر عبدالله علي الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010032",
-    "seat_full": "010032"
-  },
-  {
-    "national_id": "1154260176",
-    "name": "جاسر عبدالله بخيت الثعلبي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010033",
-    "seat_full": "010033"
-  },
-  {
-    "national_id": "1148565128",
-    "name": "جاسم عبدالله بن علي الغامدي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010034",
-    "seat_full": "010034"
-  },
-  {
-    "national_id": "2304783430",
-    "name": "جسار ايمن قايد المصباحي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010035",
-    "seat_full": "010035"
-  },
-  {
-    "national_id": "1161078447",
-    "name": "جسار عبدالله مقبول الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010036",
-    "seat_full": "010036"
-  },
-  {
-    "national_id": "1153374010",
-    "name": "جسار يوسف بن بكري الشمراني",
-    "grade": "الأول الثانوي",
+    "national_id": "1139979221",
+    "name": "مؤيد محمد بن سالم زيلع",
+    "grade": "الثالث ثانوي المسار العام",
     "class": "1",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010037",
-    "seat_full": "010037"
-  },
-  {
-    "national_id": "1152989933",
-    "name": "جواد سمير عوض الشهري",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010038",
-    "seat_full": "010038"
-  },
-  {
-    "national_id": "1151509500",
-    "name": "حامد زاهر حامد الشهري",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010039",
-    "seat_full": "010039"
-  },
-  {
-    "national_id": "1159435351",
-    "name": "حامد عويد عياد الرشيدي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010040",
-    "seat_full": "010040"
-  },
-  {
-    "national_id": "1174371714",
-    "name": "حامد مبارك سيف السبيعي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010041",
-    "seat_full": "010041"
-  },
-  {
-    "national_id": "1152441687",
-    "name": "حسام ابراهيم حسن ابراهيم",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "3",
-    "committee_location": "فصل 10",
-    "seat": "010042",
-    "seat_full": "010042"
+    "committee": "2",
+    "committee_location": "فصل 9",
+    "seat": "083023",
+    "seat_full": "083023"
   },
   {
     "national_id": "1141316909",
@@ -646,8 +3746,8 @@
     "class": "1",
     "committee": "3",
     "committee_location": "فصل 10",
-    "seat": "083023",
-    "seat_full": "083023"
+    "seat": "083024",
+    "seat_full": "083024"
   },
   {
     "national_id": "1142897832",
@@ -656,8 +3756,8 @@
     "class": "1",
     "committee": "3",
     "committee_location": "فصل 10",
-    "seat": "083024",
-    "seat_full": "083024"
+    "seat": "083025",
+    "seat_full": "083025"
   },
   {
     "national_id": "1149058081",
@@ -666,8 +3766,8 @@
     "class": "1",
     "committee": "3",
     "committee_location": "فصل 10",
-    "seat": "083025",
-    "seat_full": "083025"
+    "seat": "083026",
+    "seat_full": "083026"
   },
   {
     "national_id": "1138215494",
@@ -676,8 +3776,8 @@
     "class": "1",
     "committee": "3",
     "committee_location": "فصل 10",
-    "seat": "083026",
-    "seat_full": "083026"
+    "seat": "083027",
+    "seat_full": "083027"
   },
   {
     "national_id": "1144751110",
@@ -686,22 +3786,12 @@
     "class": "1",
     "committee": "3",
     "committee_location": "فصل 10",
-    "seat": "083027",
-    "seat_full": "083027"
-  },
-  {
-    "national_id": "1141425056",
-    "name": "مشاري ابراهيم عيسى الزهراني",
-    "grade": "الثالث ثانوي المسار العام",
-    "class": "1",
-    "committee": "3",
-    "committee_location": "فصل 10",
     "seat": "083028",
     "seat_full": "083028"
   },
   {
-    "national_id": "1140606920",
-    "name": "ممدوح عبدالله عايض الصاعدي",
+    "national_id": "1141314581",
+    "name": "محمد هاشم محمد الراشدي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
@@ -710,8 +3800,8 @@
     "seat_full": "083029"
   },
   {
-    "national_id": "1143872651",
-    "name": "ناصر عياد عواد الرشيدي",
+    "national_id": "1141425056",
+    "name": "مشاري ابراهيم عيسى الزهراني",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
@@ -720,8 +3810,8 @@
     "seat_full": "083030"
   },
   {
-    "national_id": "1141430502",
-    "name": "نايف احمد خميس الزهراني",
+    "national_id": "1140606920",
+    "name": "ممدوح عبدالله عايض الصاعدي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
@@ -730,8 +3820,8 @@
     "seat_full": "083031"
   },
   {
-    "national_id": "1140552157",
-    "name": "يزيد عائض بن ناصر الاسمري",
+    "national_id": "1143872651",
+    "name": "ناصر عياد عواد الرشيدي",
     "grade": "الثالث ثانوي المسار العام",
     "class": "1",
     "committee": "3",
@@ -740,3133 +3830,23 @@
     "seat_full": "083032"
   },
   {
-    "national_id": "1150745774",
-    "name": "حسام سمحان ابن مجدوع العرياني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010043",
-    "seat_full": "010043"
-  },
-  {
-    "national_id": "1152395131",
-    "name": "حسام علي بن بلغيث الهندي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010044",
-    "seat_full": "010044"
-  },
-  {
-    "national_id": "1150224663",
-    "name": "حسن عثمان علي حكمي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010045",
-    "seat_full": "010045"
-  },
-  {
-    "national_id": "1188315954",
-    "name": "حسن محمد جابرهامل عضلي مباركي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010046",
-    "seat_full": "010046"
-  },
-  {
-    "national_id": "1151580378",
-    "name": "خالد ابراهيم عبدالله الشيخي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010047",
-    "seat_full": "010047"
-  },
-  {
-    "national_id": "1153926330",
-    "name": "خالد سامي مسفر الشمراني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010048",
-    "seat_full": "010048"
-  },
-  {
-    "national_id": "9683633851",
-    "name": "خالد سمير محمد المومري",
-    "grade": "الأول الثانوي",
+    "national_id": "1141430502",
+    "name": "نايف احمد خميس الزهراني",
+    "grade": "الثالث ثانوي المسار العام",
     "class": "1",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010049",
-    "seat_full": "010049"
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "083033",
+    "seat_full": "083033"
   },
   {
-    "national_id": "1152742175",
-    "name": "خالد عبدالله عوض الشهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010050",
-    "seat_full": "010050"
-  },
-  {
-    "national_id": "1152407019",
-    "name": "خالد علي مريع زبرقي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010051",
-    "seat_full": "010051"
-  },
-  {
-    "national_id": "1143776803",
-    "name": "خالد موسى يحي قارضه",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010052",
-    "seat_full": "010052"
-  },
-  {
-    "national_id": "1158236149",
-    "name": "رائد وليد حسين ال ابوطالب",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010053",
-    "seat_full": "010053"
-  },
-  {
-    "national_id": "2299094157",
-    "name": "رائف خليل علي غالب",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010054",
-    "seat_full": "010054"
-  },
-  {
-    "national_id": "1151024245",
-    "name": "رازي ثامر محمد حريصي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010055",
-    "seat_full": "010055"
-  },
-  {
-    "national_id": "1153978075",
-    "name": "راكان سامر عبده مطري",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "010056",
-    "seat_full": "010056"
-  },
-  {
-    "national_id": "1147282154",
-    "name": "ابراهيم بندر ابراهيم الشيخي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064001",
-    "seat_full": "064001"
-  },
-  {
-    "national_id": "2321893733",
-    "name": "ابراهيم خليل - المزروعي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064002",
-    "seat_full": "064002"
-  },
-  {
-    "national_id": "0160238935",
-    "name": "ابراهيم علي محمد التميمي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064003",
-    "seat_full": "064003"
-  },
-  {
-    "national_id": "2377844010",
-    "name": "ابراهيم فواد علي الشرفي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064004",
-    "seat_full": "064004"
-  },
-  {
-    "national_id": "1149438804",
-    "name": "احمد ابراهيم عيسي القبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064005",
-    "seat_full": "064005"
-  },
-  {
-    "national_id": "1154240541",
-    "name": "احمد اسامه محمد مسرحي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064006",
-    "seat_full": "064006"
-  },
-  {
-    "national_id": "2077867410",
-    "name": "احمد برك احمد سالم",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "6",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064007",
-    "seat_full": "064007"
-  },
-  {
-    "national_id": "1149200188",
-    "name": "احمد عبدالله محمد احمد",
-    "grade": "الثاني ثانوي المسار العام",
+    "national_id": "1140552157",
+    "name": "يزيد عائض بن ناصر الاسمري",
+    "grade": "الثالث ثانوي المسار العام",
     "class": "1",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064008",
-    "seat_full": "064008"
-  },
-  {
-    "national_id": "1146999253",
-    "name": "احمد علي احمد الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064009",
-    "seat_full": "064009"
-  },
-  {
-    "national_id": "1152535710",
-    "name": "أحمد متعب عبدالله الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "06410",
-    "seat_full": "06410"
-  },
-  {
-    "national_id": "1146792468",
-    "name": "احمد محمد عبدالله الشهابي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064011",
-    "seat_full": "064011"
-  },
-  {
-    "national_id": "2365755525",
-    "name": "اسماعيل نذير أحمد - بهاول",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064012",
-    "seat_full": "064012"
-  },
-  {
-    "national_id": "1145823074",
-    "name": "أمجد علي بن عوض الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064013",
-    "seat_full": "064013"
-  },
-  {
-    "national_id": "1173169226",
-    "name": "أنس عبدالعزيز احمد سداح",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064014",
-    "seat_full": "064014"
-  },
-  {
-    "national_id": "1149438770",
-    "name": "اياد ابراهيم عيسي القبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "4",
-    "committee_location": "فصل 11",
-    "seat": "064015",
-    "seat_full": "064015"
-  },
-  {
-    "national_id": "1146626658",
-    "name": "راكان يحيى عبدالله عصبي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010057",
-    "seat_full": "010057"
-  },
-  {
-    "national_id": "1153212293",
-    "name": "رامي علي بن عون العرياني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010058",
-    "seat_full": "010058"
-  },
-  {
-    "national_id": "1154236978",
-    "name": "رضا يحيى عبدالله عصبي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010059",
-    "seat_full": "010059"
-  },
-  {
-    "national_id": "0160519235",
-    "name": "رضوان خالد عبدربه النسي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010060",
-    "seat_full": "010060"
-  },
-  {
-    "national_id": "1151006283",
-    "name": "رعد أحمد شراز المنتشري",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010061",
-    "seat_full": "010061"
-  },
-  {
-    "national_id": "1152893473",
-    "name": "ريان خالد محسن علي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010062",
-    "seat_full": "010062"
-  },
-  {
-    "national_id": "1151024773",
-    "name": "ريان سعيد بن علي الشهري",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010063",
-    "seat_full": "010063"
-  },
-  {
-    "national_id": "2410408757",
-    "name": "ريان عبدالجبار - فاروق احمد",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010064",
-    "seat_full": "010064"
-  },
-  {
-    "national_id": "1149732636",
-    "name": "ريان محمد ابراهيم الشيخي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010065",
-    "seat_full": "010065"
-  },
-  {
-    "national_id": "1150476024",
-    "name": "زياد عبدالله حسن الشمراني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010066",
-    "seat_full": "010066"
-  },
-  {
-    "national_id": "1150758959",
-    "name": "زياد عبدالله فايز العرياني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010067",
-    "seat_full": "010067"
-  },
-  {
-    "national_id": "1149289397",
-    "name": "زياد ياسر حميد الحربي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010068",
-    "seat_full": "010068"
-  },
-  {
-    "national_id": "1158845824",
-    "name": "ساري ابراهيم محمد الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010069",
-    "seat_full": "010069"
-  },
-  {
-    "national_id": "2315413324",
-    "name": "سالم احمد سالم صبي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "010070",
-    "seat_full": "010070"
-  },
-  {
-    "national_id": "1148991043",
-    "name": "اياد خالد محمد مخيي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064016",
-    "seat_full": "064016"
-  },
-  {
-    "national_id": "2286004839",
-    "name": "ايمن حسني يوسف عمران",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064017",
-    "seat_full": "064017"
-  },
-  {
-    "national_id": "1146166804",
-    "name": "باسل احمد علي الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064018",
-    "seat_full": "064018"
-  },
-  {
-    "national_id": "2279531525",
-    "name": "باسم ماجد عياش قطاب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064019",
-    "seat_full": "064019"
-  },
-  {
-    "national_id": "1149635425",
-    "name": "بسام فارع بن خلف العتيبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064020",
-    "seat_full": "064020"
-  },
-  {
-    "national_id": "1148476862",
-    "name": "بندر غازي بن احمد الشهابي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064021",
-    "seat_full": "064021"
-  },
-  {
-    "national_id": "1146136047",
-    "name": "تركي حسن عويضه الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064022",
-    "seat_full": "064022"
-  },
-  {
-    "national_id": "1147137994",
-    "name": "تركي نايف مسلط البقمي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064023",
-    "seat_full": "064023"
-  },
-  {
-    "national_id": "2353329747",
-    "name": "تيم جميل محمد حسين",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064024",
-    "seat_full": "064024"
-  },
-  {
-    "national_id": "1144685441",
-    "name": "ثامر عبدالله عابد الهلالي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064025",
-    "seat_full": "064025"
-  },
-  {
-    "national_id": "1148881103",
-    "name": "جاسر احمد جمعان الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064026",
-    "seat_full": "064026"
-  },
-  {
-    "national_id": "1148491069",
-    "name": "جسار دخيل الله موسى السفري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064027",
-    "seat_full": "064027"
-  },
-  {
-    "national_id": "4135354498",
-    "name": "جياد محمد علي الأهدل",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064028",
-    "seat_full": "064028"
-  },
-  {
-    "national_id": "1147683369",
-    "name": "حامد علي حامد الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064029",
-    "seat_full": "064029"
-  },
-  {
-    "national_id": "1148102971",
-    "name": "حسام ياسين محسن عريشي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "5",
-    "committee_location": "فصل 12",
-    "seat": "064030",
-    "seat_full": "064030"
-  },
-  {
-    "national_id": "1163349614",
-    "name": "سالم عبدالله ابن غميظ الشهري",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010071",
-    "seat_full": "010071"
-  },
-  {
-    "national_id": "1152572275",
-    "name": "سامر فهد جابر القرني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010072",
-    "seat_full": "010072"
-  },
-  {
-    "national_id": "1152572267",
-    "name": "ساهر فهد جابر القرني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010073",
-    "seat_full": "010073"
-  },
-  {
-    "national_id": "1179378391",
-    "name": "سعد حمد ابن عبدالله الشيباني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010074",
-    "seat_full": "010074"
-  },
-  {
-    "national_id": "1153082167",
-    "name": "سعد محمد احمد الثعلبي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010075",
-    "seat_full": "010075"
-  },
-  {
-    "national_id": "1151152640",
-    "name": "سعود محمد حسن الفيفي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010076",
-    "seat_full": "010076"
-  },
-  {
-    "national_id": "1149738476",
-    "name": "سعيد عبدالله سعيد العمري",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010077",
-    "seat_full": "010077"
-  },
-  {
-    "national_id": "1150597100",
-    "name": "سعيد هاشم سعيد الشريف",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010078",
-    "seat_full": "010078"
-  },
-  {
-    "national_id": "1154171522",
-    "name": "سلطان حامد بن احمد الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010079",
-    "seat_full": "010079"
-  },
-  {
-    "national_id": "1152383244",
-    "name": "سلطان مريزيق مرزوق الجدعاني",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010080",
-    "seat_full": "010080"
-  },
-  {
-    "national_id": "1153662885",
-    "name": "سليم حميد العفين العديني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010081",
-    "seat_full": "010081"
-  },
-  {
-    "national_id": "1177247523",
-    "name": "سليمان بركات احمد طواش",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010082",
-    "seat_full": "010082"
-  },
-  {
-    "national_id": "1153633639",
-    "name": "سليمان خالد علي شعبي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010083",
-    "seat_full": "010083"
-  },
-  {
-    "national_id": "1151886429",
-    "name": "سند صالح عطيه العصماني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "010084",
-    "seat_full": "010084"
-  },
-  {
-    "national_id": "1147602609",
-    "name": "حسان حسن حمدان الشهري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064031",
-    "seat_full": "064031"
-  },
-  {
-    "national_id": "1147673873",
-    "name": "حسان محمد علي زبرقي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064032",
-    "seat_full": "064032"
-  },
-  {
-    "national_id": "1145053292",
-    "name": "حسن ابوطالب حسن حمدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064033",
-    "seat_full": "064033"
-  },
-  {
-    "national_id": "1153898000",
-    "name": "حسن احمد بن حسن الصعب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064034",
-    "seat_full": "064034"
-  },
-  {
-    "national_id": "1147072357",
-    "name": "حسن علي سويد العبدلي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064035",
-    "seat_full": "064035"
-  },
-  {
-    "national_id": "1154341596",
-    "name": "خالد احمد سعيد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064036",
-    "seat_full": "064036"
-  },
-  {
-    "national_id": "1149434530",
-    "name": "خالد رشيد محمد المرحبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064037",
-    "seat_full": "064037"
-  },
-  {
-    "national_id": "1144779897",
-    "name": "خالد صالح بن ناصر السبيعي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064038",
-    "seat_full": "064038"
-  },
-  {
-    "national_id": "1148972357",
-    "name": "خالد علي بن صالح الحارثي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064039",
-    "seat_full": "064039"
-  },
-  {
-    "national_id": "1146799422",
-    "name": "خالد يحي محمد طالبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064040",
-    "seat_full": "064040"
-  },
-  {
-    "national_id": "1172449876",
-    "name": "رائد علي صالح الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064041",
-    "seat_full": "064041"
-  },
-  {
-    "national_id": "1149293456",
-    "name": "راكان تركي علي الشيخي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064042",
-    "seat_full": "064042"
-  },
-  {
-    "national_id": "1146617665",
-    "name": "رشيد شداد رشيد المرحبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064043",
-    "seat_full": "064043"
-  },
-  {
-    "national_id": "4132291008",
-    "name": "رضوان يوسف رضوان احمد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064044",
-    "seat_full": "064044"
-  },
-  {
-    "national_id": "2376079360",
-    "name": "ريان جماح ابراهيم هاشم",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "6",
-    "committee_location": "فصل 13",
-    "seat": "064045",
-    "seat_full": "064045"
-  },
-  {
-    "national_id": "1151102173",
-    "name": "سيف عبدالعزيز عوض المالكي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010085",
-    "seat_full": "010085"
-  },
-  {
-    "national_id": "1150729166",
-    "name": "سيف ماجد عبدالعزيز الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010086",
-    "seat_full": "010086"
-  },
-  {
-    "national_id": "1150056669",
-    "name": "شادي عنتر حسن هبه",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010087",
-    "seat_full": "010087"
-  },
-  {
-    "national_id": "4521519787",
-    "name": "صالح محمد صالح حيدره",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010088",
-    "seat_full": "010088"
-  },
-  {
-    "national_id": "1159901691",
-    "name": "صالح مصلح حميد البرطيخي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010089",
-    "seat_full": "010089"
-  },
-  {
-    "national_id": "1427322524",
-    "name": "طه حجازي طه حسن",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010090",
-    "seat_full": "010090"
-  },
-  {
-    "national_id": "1150112017",
-    "name": "عامر بن محمد بن عامر ال غانم",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010091",
-    "seat_full": "010091"
-  },
-  {
-    "national_id": "1150330874",
-    "name": "عبدالاله عبدالله بن حسن عامري",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010092",
-    "seat_full": "010092"
-  },
-  {
-    "national_id": "1147173783",
-    "name": "عبدالاله ماضي بن منيجل السبيعي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010093",
-    "seat_full": "010093"
-  },
-  {
-    "national_id": "1151075114",
-    "name": "عبدرحمن أحمد عبدالرحمن الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010094",
-    "seat_full": "010094"
-  },
-  {
-    "national_id": "2291435978",
-    "name": "عبدالرحمن سالم محمد المصباحي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010095",
-    "seat_full": "010095"
-  },
-  {
-    "national_id": "1149445403",
-    "name": "عبدالرحمن عايض بن محمود حجازي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010096",
-    "seat_full": "010096"
-  },
-  {
-    "national_id": "1155436148",
-    "name": "عبدالرحمن عبدالله علي المنتشري",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010097",
-    "seat_full": "010097"
-  },
-  {
-    "national_id": "1155869991",
-    "name": "عبدالرحمن عبدالله نافع البسيسي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "010098",
-    "seat_full": "010098"
-  },
-  {
-    "national_id": "2289981603",
-    "name": "ريان حبيب نصير محمد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064046",
-    "seat_full": "064046"
-  },
-  {
-    "national_id": "1146716855",
-    "name": "زياد احمد جمعان الشهري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064047",
-    "seat_full": "064047"
-  },
-  {
-    "national_id": "1144349337",
-    "name": "زياد زاهر محمد الثعلبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064048",
-    "seat_full": "064048"
-  },
-  {
-    "national_id": "1150729356",
-    "name": "زياد طلال ابراهيم الشيخي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064049",
-    "seat_full": "064049"
-  },
-  {
-    "national_id": "1149072413",
-    "name": "زياد علوان بن عبيدالله الشمراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064050",
-    "seat_full": "064050"
-  },
-  {
-    "national_id": "1148554353",
-    "name": "زياد محمد ابراهيم جعفري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064051",
-    "seat_full": "064051"
-  },
-  {
-    "national_id": "1149116483",
-    "name": "سالم فهد عقيل القرني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064052",
-    "seat_full": "064052"
-  },
-  {
-    "national_id": "2285075293",
-    "name": "سامي عثمان موسى محمد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064053",
-    "seat_full": "064053"
-  },
-  {
-    "national_id": "2284037039",
-    "name": "سعود طلال منصور عبدالله",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064054",
-    "seat_full": "064054"
-  },
-  {
-    "national_id": "1148992991",
-    "name": "سلطان ابراهيم عيسى الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064055",
-    "seat_full": "064055"
-  },
-  {
-    "national_id": "1143982294",
-    "name": "سلطان علي بن صالح الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064056",
-    "seat_full": "064056"
-  },
-  {
-    "national_id": "2285513509",
-    "name": "سلطان مصطفى صالح الاجرب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064057",
-    "seat_full": "064057"
-  },
-  {
-    "national_id": "1149139907",
-    "name": "سلمان محمد خبتي الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064058",
-    "seat_full": "064058"
-  },
-  {
-    "national_id": "1148328907",
-    "name": "سليمان اكرم سليمان غروي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064059",
-    "seat_full": "064059"
-  },
-  {
-    "national_id": "1148861246",
-    "name": "سليمان خالد سليمان حندوب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "7",
-    "committee_location": "فصل 4",
-    "seat": "064060",
-    "seat_full": "064060"
-  },
-  {
-    "national_id": "1159078409",
-    "name": "عبدالرحمن علي احمد العجلاني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010099",
-    "seat_full": "010099"
-  },
-  {
-    "national_id": "1155656836",
-    "name": "عبدالرحمن علي عبدالله السميري",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010100",
-    "seat_full": "010100"
-  },
-  {
-    "national_id": "1152283139",
-    "name": "عبدالرحمن علي عبدالله مكين",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010101",
-    "seat_full": "010101"
-  },
-  {
-    "national_id": "2297701555",
-    "name": "عبدالرحمن وديع عبده مزجاجي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010102",
-    "seat_full": "010102"
-  },
-  {
-    "national_id": "1153067820",
-    "name": "عبدالرحمن وليد حسن بحرين",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010103",
-    "seat_full": "010103"
-  },
-  {
-    "national_id": "1152380257",
-    "name": "عبدالعزيز ابراهيم بن علي المرحبي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010104",
-    "seat_full": "010104"
-  },
-  {
-    "national_id": "1150322640",
-    "name": "عبدالعزيز بندر بن مقبل الحربي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010105",
-    "seat_full": "010105"
-  },
-  {
-    "national_id": "1151794318",
-    "name": "عبدالله الحسين عبدالله القرني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010106",
-    "seat_full": "010106"
-  },
-  {
-    "national_id": "1149641720",
-    "name": "عبدالله جابر عبدالله الكثيري",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010107",
-    "seat_full": "010107"
-  },
-  {
-    "national_id": "1170929606",
-    "name": "عبدالله زهير حسن الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010108",
-    "seat_full": "010108"
-  },
-  {
-    "national_id": "1150674966",
-    "name": "عبدالله شعيب عبدالله العرياني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010109",
-    "seat_full": "010109"
-  },
-  {
-    "national_id": "1150912572",
-    "name": "عبدالله عائض عبدالله الشمراني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010110",
-    "seat_full": "010110"
-  },
-  {
-    "national_id": "1149872515",
-    "name": "عبدالله عبدالرحمن محمد الحاتمي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010111",
-    "seat_full": "010111"
-  },
-  {
-    "national_id": "1151791926",
-    "name": "عبدالله علي بن عبدالله القرني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "010112",
-    "seat_full": "010112"
-  },
-  {
-    "national_id": "2268535826",
-    "name": "شادي وائل عبدالله الحطامي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064061",
-    "seat_full": "064061"
-  },
-  {
-    "national_id": "1144101365",
-    "name": "صالح حامد بريك حميد الكعيكي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064062",
-    "seat_full": "064062"
-  },
-  {
-    "national_id": "1146821077",
-    "name": "صالح علي صالح العرياني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064063",
-    "seat_full": "064063"
-  },
-  {
-    "national_id": "1173303221",
-    "name": "صالح محمد مبارك الرشيدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064064",
-    "seat_full": "064064"
-  },
-  {
-    "national_id": "2262585587",
-    "name": "صالح مصطفى صالح ناصر",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064065",
-    "seat_full": "064065"
-  },
-  {
-    "national_id": "1148599440",
-    "name": "صالح ياسر ابن صالح بالشرم",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064066",
-    "seat_full": "064066"
-  },
-  {
-    "national_id": "1149216812",
-    "name": "طلال عبداللطيف احمد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064067",
-    "seat_full": "064067"
-  },
-  {
-    "national_id": "1148416470",
-    "name": "عامر رفعت احمد وهبان",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064068",
-    "seat_full": "064068"
-  },
-  {
-    "national_id": "2377844028",
-    "name": "عبدالرحمن فواد علي الشرفي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064069",
-    "seat_full": "064069"
-  },
-  {
-    "national_id": "1149697425",
-    "name": "عبدالرحمن محمد بخيت المطيري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064070",
-    "seat_full": "064070"
-  },
-  {
-    "national_id": "1146376528",
-    "name": "عبدالرحمن محمد عبدالرحمن القرني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064071",
-    "seat_full": "064071"
-  },
-  {
-    "national_id": "1155495441",
-    "name": "عبدالرحمن موسى محمد السلامي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064072",
-    "seat_full": "064072"
-  },
-  {
-    "national_id": "0160498189",
-    "name": "عبدالرحمن ناجي قاسم احمد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064073",
-    "seat_full": "064073"
-  },
-  {
-    "national_id": "2278759085",
-    "name": "عبدالرحيم محمد عمر بايزيد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064074",
-    "seat_full": "064074"
-  },
-  {
-    "national_id": "1148166380",
-    "name": "عبدالعزيز عثمان يحيى السعن",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "8",
-    "committee_location": "فصل 14",
-    "seat": "064075",
-    "seat_full": "064075"
-  },
-  {
-    "national_id": "1152340558",
-    "name": "عبدالله نايف مسلط البقمي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010113",
-    "seat_full": "010113"
-  },
-  {
-    "national_id": "1151094875",
-    "name": "عبدالله هياس عبدالله الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010114",
-    "seat_full": "010114"
-  },
-  {
-    "national_id": "1150632097",
-    "name": "عبدالمجيد بن اسماعيل بن محمد البدري العلوي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010115",
-    "seat_full": "010115"
-  },
-  {
-    "national_id": "1154079816",
-    "name": "عبدالمجيد عبدالله معلا العمري",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010116",
-    "seat_full": "010116"
-  },
-  {
-    "national_id": "1156256271",
-    "name": "عبدالوهاب ابراهيم احمد الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010117",
-    "seat_full": "010117"
-  },
-  {
-    "national_id": "1152643191",
-    "name": "عزام ايمن حاسن العرياني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010118",
-    "seat_full": "010118"
-  },
-  {
-    "national_id": "1153585235",
-    "name": "علي جابر علي الغبيشي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010119",
-    "seat_full": "010119"
-  },
-  {
-    "national_id": "1156116962",
-    "name": "علي محمد علي حكمي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010120",
-    "seat_full": "010120"
-  },
-  {
-    "national_id": "1149582981",
-    "name": "علي يحى علي الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010121",
-    "seat_full": "010121"
-  },
-  {
-    "national_id": "1150774980",
-    "name": "علي يحيى ابن علي الناشري",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010122",
-    "seat_full": "010122"
-  },
-  {
-    "national_id": "1151455472",
-    "name": "علي يحيى علي الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010123",
-    "seat_full": "010123"
-  },
-  {
-    "national_id": "5674906",
-    "name": "- عماد احمد المحمد",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010124",
-    "seat_full": "010124"
-  },
-  {
-    "national_id": "1151948757",
-    "name": "عماد محمد ابوراس الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010125",
-    "seat_full": "010125"
-  },
-  {
-    "national_id": "1149922864",
-    "name": "عمار امصير سالم العماري",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "010126",
-    "seat_full": "010126"
-  },
-  {
-    "national_id": "1147066342",
-    "name": "عبدالعزيز علي بن عابد الحارثي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064076",
-    "seat_full": "064076"
-  },
-  {
-    "national_id": "4673653350",
-    "name": "عبدالعزيز فهد علي الحامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064077",
-    "seat_full": "064077"
-  },
-  {
-    "national_id": "1146473200",
-    "name": "عبدالكريم ابراهيم احمد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064078",
-    "seat_full": "064078"
-  },
-  {
-    "national_id": "1148358326",
-    "name": "عبدالكريم عبده بن احمد محنشي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064079",
-    "seat_full": "064079"
-  },
-  {
-    "national_id": "2281677340",
-    "name": "عبدالكريم عوض عبده حزام",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064080",
-    "seat_full": "064080"
-  },
-  {
-    "national_id": "4146079126",
-    "name": "عبدالكريم يحيى داود شرف",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064081",
-    "seat_full": "064081"
-  },
-  {
-    "national_id": "2277654774",
-    "name": "عبدالله احمد عبدالرحمن بلفقيه",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064082",
-    "seat_full": "064082"
-  },
-  {
-    "national_id": "1142786266",
-    "name": "عبدالله حامد محمد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064083",
-    "seat_full": "064083"
-  },
-  {
-    "national_id": "2270902667",
-    "name": "عبدالله عادل عبدالله الاحمدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064084",
-    "seat_full": "064084"
-  },
-  {
-    "national_id": "1148553454",
-    "name": "عبدالله علي بركات السيد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064085",
-    "seat_full": "064085"
-  },
-  {
-    "national_id": "1146005986",
-    "name": "عبدالله متعب بن محمد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064086",
-    "seat_full": "064086"
-  },
-  {
-    "national_id": "2279507756",
-    "name": "عبدالله محمد ابراهيم بامدحن",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064087",
-    "seat_full": "064087"
-  },
-  {
-    "national_id": "1145196828",
-    "name": "عبدالله مديني احمد العسيري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064088",
-    "seat_full": "064088"
-  },
-  {
-    "national_id": "1146652712",
-    "name": "عبدالله موسى احمد الاسمري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064089",
-    "seat_full": "064089"
-  },
-  {
-    "national_id": "1147234270",
-    "name": "عبدالله يحي بن احمد طالبى",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "9",
-    "committee_location": "فصل 15",
-    "seat": "064090",
-    "seat_full": "064090"
-  },
-  {
-    "national_id": "1153137250",
-    "name": "عمر حسن عمر الشاعري",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010127",
-    "seat_full": "010127"
-  },
-  {
-    "national_id": "1135593968",
-    "name": "عمر محمد سعيد القرني",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010128",
-    "seat_full": "010128"
-  },
-  {
-    "national_id": "1151234679",
-    "name": "عمر يحي عمر الصبياني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010129",
-    "seat_full": "010129"
-  },
-  {
-    "national_id": "1150227781",
-    "name": "عيسى حسن عائض الحربي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010130",
-    "seat_full": "010130"
-  },
-  {
-    "national_id": "1151126990",
-    "name": "عيسى عادل عيسي هزازي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010131",
-    "seat_full": "010131"
-  },
-  {
-    "national_id": "1150414116",
-    "name": "فارس احمد علي الاسود",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010132",
-    "seat_full": "010132"
-  },
-  {
-    "national_id": "1164477398",
-    "name": "فارس بالقاسم هندي الشمراني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010133",
-    "seat_full": "010133"
-  },
-  {
-    "national_id": "1151215835",
-    "name": "فارس طلال حمود الحربي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010134",
-    "seat_full": "010134"
-  },
-  {
-    "national_id": "1151000336",
-    "name": "فارس علي احمد الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010135",
-    "seat_full": "010135"
-  },
-  {
-    "national_id": "1151254255",
-    "name": "فارس فهد مرشد الجدعاني",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010136",
-    "seat_full": "010136"
-  },
-  {
-    "national_id": "1151933312",
-    "name": "فايز على فايز العماري",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010137",
-    "seat_full": "010137"
-  },
-  {
-    "national_id": "2294955766",
-    "name": "فراس عادل عبدالله الاحمدى",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010138",
-    "seat_full": "010138"
-  },
-  {
-    "national_id": "1152163034",
-    "name": "فراس عبدالفتاح اسماعيل مغلس",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010139",
-    "seat_full": "010139"
-  },
-  {
-    "national_id": "1153684111",
-    "name": "فهد بندر ابراهيم الشيخي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "010140",
-    "seat_full": "010140"
-  },
-  {
-    "national_id": "1144347356",
-    "name": "عبدالمجيد علي مرعي الشهري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064091",
-    "seat_full": "064091"
-  },
-  {
-    "national_id": "1146277643",
-    "name": "عبدالمجيد محمد مصبح العمري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064092",
-    "seat_full": "064092"
-  },
-  {
-    "national_id": "0160230485",
-    "name": "عبدالوهاب بكري عبدالوهاب هائل",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064093",
-    "seat_full": "064093"
-  },
-  {
-    "national_id": "1152352900",
-    "name": "علي سعيد علي الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064094",
-    "seat_full": "064094"
-  },
-  {
-    "national_id": "1144827332",
-    "name": "علي صالح بن ناصر السبيعي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064095",
-    "seat_full": "064095"
-  },
-  {
-    "national_id": "1147380826",
-    "name": "علي صالح علي المنتشري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064096",
-    "seat_full": "064096"
-  },
-  {
-    "national_id": "1148782814",
-    "name": "علي محمد ابن علي العيسي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064097",
-    "seat_full": "064097"
-  },
-  {
-    "national_id": "1141617991",
-    "name": "علي محمد علي الصبياني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064098",
-    "seat_full": "064098"
-  },
-  {
-    "national_id": "2283478903",
-    "name": "علي مكي علي محجوب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064099",
-    "seat_full": "064099"
-  },
-  {
-    "national_id": "2281940227",
-    "name": "عمار احمد محمد محمد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064100",
-    "seat_full": "064100"
-  },
-  {
-    "national_id": "1159432457",
-    "name": "عمار فواز بن محمد الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064101",
-    "seat_full": "064101"
-  },
-  {
-    "national_id": "4139714176",
-    "name": "عمر نبيل الخادم محمد الوجيه",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064102",
-    "seat_full": "064102"
-  },
-  {
-    "national_id": "2289566644",
-    "name": "غازي فهد غازي سعيد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064103",
-    "seat_full": "064103"
-  },
-  {
-    "national_id": "1147455750",
-    "name": "غرم الله علي صالح الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064104",
-    "seat_full": "064104"
-  },
-  {
-    "national_id": "1161154263",
-    "name": "فارس ثامر محمد مجملي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "10",
-    "committee_location": "فصل 16",
-    "seat": "064105",
-    "seat_full": "064105"
-  },
-  {
-    "national_id": "1149962753",
-    "name": "فواز محمد موسى الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010141",
-    "seat_full": "010141"
-  },
-  {
-    "national_id": "1149783365",
-    "name": "فيصل ابراهيم مرزوق الزاحمي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010142",
-    "seat_full": "010142"
-  },
-  {
-    "national_id": "1154179889",
-    "name": "فيصل احمد محمد القرني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010143",
-    "seat_full": "010143"
-  },
-  {
-    "national_id": "4146209996",
-    "name": "فيصل خالد ناصر حسين",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010144",
-    "seat_full": "010144"
-  },
-  {
-    "national_id": "1150195996",
-    "name": "فيصل موسي معيض القرني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010145",
-    "seat_full": "010145"
-  },
-  {
-    "national_id": "2354593234",
-    "name": "قصي جميل محمد حسين",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010146",
-    "seat_full": "010146"
-  },
-  {
-    "national_id": "1148388174",
-    "name": "قيس عبدالله احمد القيسي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010147",
-    "seat_full": "010147"
-  },
-  {
-    "national_id": "1150234886",
-    "name": "مؤيد احمد حمد حكمي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010148",
-    "seat_full": "010148"
-  },
-  {
-    "national_id": "1159169786",
-    "name": "مؤيد هاني محمد نحاس",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010149",
-    "seat_full": "010149"
-  },
-  {
-    "national_id": "1152095004",
-    "name": "مالك وحيد بن عبدالله الجداوي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010150",
-    "seat_full": "010150"
-  },
-  {
-    "national_id": "9683735500",
-    "name": "متعب محسن عبود العمودي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010151",
-    "seat_full": "010151"
-  },
-  {
-    "national_id": "1150673182",
-    "name": "محمد احمد بن محمد السهيمي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010152",
-    "seat_full": "010152"
-  },
-  {
-    "national_id": "1150320065",
-    "name": "محمد احمد صالح الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010153",
-    "seat_full": "010153"
-  },
-  {
-    "national_id": "1153689748",
-    "name": "محمد احمد محمد الهنيدي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "010154",
-    "seat_full": "010154"
-  },
-  {
-    "national_id": "1173193127",
-    "name": "فارس فيصل شنيف السلمي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064106",
-    "seat_full": "064106"
-  },
-  {
-    "national_id": "2280137841",
-    "name": "فراس علي احمد معوظه",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064107",
-    "seat_full": "064107"
-  },
-  {
-    "national_id": "4150628271",
-    "name": "فراس هاني عبدالله باحطاب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064108",
-    "seat_full": "064108"
-  },
-  {
-    "national_id": "1146444193",
-    "name": "فراس يحي محسن عريشي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064109",
-    "seat_full": "064109"
-  },
-  {
-    "national_id": "1146697139",
-    "name": "فهد جودالله فايز المعاوي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064110",
-    "seat_full": "064110"
-  },
-  {
-    "national_id": "1158388346",
-    "name": "فهد حسن عبدالرحمن الصعب",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064111",
-    "seat_full": "064111"
-  },
-  {
-    "national_id": "2284395379",
-    "name": "فهد محمد صالح الحداد",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064112",
-    "seat_full": "064112"
-  },
-  {
-    "national_id": "07121430",
-    "name": "فواز فتحي زيد علي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064113",
-    "seat_full": "064113"
-  },
-  {
-    "national_id": "1146482367",
-    "name": "فيصل عبده احمد العسيري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064114",
-    "seat_full": "064114"
-  },
-  {
-    "national_id": "1148767179",
-    "name": "مازن سمير عوض الشهري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064115",
-    "seat_full": "064115"
-  },
-  {
-    "national_id": "1147176737",
-    "name": "ماهر عبده علي مباركي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064116",
-    "seat_full": "064116"
-  },
-  {
-    "national_id": "1148801317",
-    "name": "متعب جمعان سرور الجيزاني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064117",
-    "seat_full": "064117"
-  },
-  {
-    "national_id": "1144624929",
-    "name": "محمد ابراهيم بن الحسن المعشي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064118",
-    "seat_full": "064118"
-  },
-  {
-    "national_id": "1146014798",
-    "name": "محمد ابراهيم زيلعى شرف",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "11",
-    "committee_location": "فصل 17",
-    "seat": "064119",
-    "seat_full": "064119"
-  },
-  {
-    "national_id": "1427322486",
-    "name": "محمد الطيب محمد علي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010155",
-    "seat_full": "010155"
-  },
-  {
-    "national_id": "1152659866",
-    "name": "محمد تركي بن محمد جيلان",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010156",
-    "seat_full": "010156"
-  },
-  {
-    "national_id": "1151103734",
-    "name": "محمد جارالله بن احمد العبدلي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010157",
-    "seat_full": "010157"
-  },
-  {
-    "national_id": "1152410864",
-    "name": "محمد حامد حميد الجهني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010158",
-    "seat_full": "010158"
-  },
-  {
-    "national_id": "1152780316",
-    "name": "محمد خالد محمد الحربي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010159",
-    "seat_full": "010159"
-  },
-  {
-    "national_id": "1146774433",
-    "name": "محمد راجح محمد السبيعي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010160",
-    "seat_full": "010160"
-  },
-  {
-    "national_id": "1154674244",
-    "name": "محمد صالح بن علي الحارثي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010161",
-    "seat_full": "010161"
-  },
-  {
-    "national_id": "1150765764",
-    "name": "محمد عبدالله بخيت الحربي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010162",
-    "seat_full": "010162"
-  },
-  {
-    "national_id": "1144827373",
-    "name": "محمد عبدالله محمد الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010163",
-    "seat_full": "010163"
-  },
-  {
-    "national_id": "1165704329",
-    "name": "محمد عبده خميس الزبيدي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010164",
-    "seat_full": "010164"
-  },
-  {
-    "national_id": "1148982786",
-    "name": "محمد علي صالح الحارثي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010165",
-    "seat_full": "010165"
-  },
-  {
-    "national_id": "1146404874",
-    "name": "محمد علي عبدالله عتودي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010166",
-    "seat_full": "010166"
-  },
-  {
-    "national_id": "1151766449",
-    "name": "محمد عمر محمد السلامي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010167",
-    "seat_full": "010167"
-  },
-  {
-    "national_id": "1153447345",
-    "name": "محمد عمر محمد حبادي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "010168",
-    "seat_full": "010168"
-  },
-  {
-    "national_id": "1144639307",
-    "name": "محمد ابراهيم هاشم الصمداني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064120",
-    "seat_full": "064120"
-  },
-  {
-    "national_id": "1437362705",
-    "name": "محمد احمد محمد مثنى هادي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064121",
-    "seat_full": "064121"
-  },
-  {
-    "national_id": "1145722037",
-    "name": "محمد بن علي بن محمد ال مرعي عسيري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064122",
-    "seat_full": "064122"
-  },
-  {
-    "national_id": "1148294380",
-    "name": "محمد بن ناصر بن علي الاسمري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064123",
-    "seat_full": "064123"
-  },
-  {
-    "national_id": "4123645006",
-    "name": "محمد حسن إبراهيم حسن",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064124",
-    "seat_full": "064124"
-  },
-  {
-    "national_id": "1149096669",
-    "name": "محمد حسن محمد القرنى",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064125",
-    "seat_full": "064125"
-  },
-  {
-    "national_id": "1146793227",
-    "name": "محمد خليل احمد الربعي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064126",
-    "seat_full": "064126"
-  },
-  {
-    "national_id": "1146419740",
-    "name": "محمد سعيد هزاع السهلي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064127",
-    "seat_full": "064127"
-  },
-  {
-    "national_id": "1147950537",
-    "name": "محمد سلطان بن احمد السهيمي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064128",
-    "seat_full": "064128"
-  },
-  {
-    "national_id": "1149896506",
-    "name": "محمد صالح بن سالم السهيمي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064129",
-    "seat_full": "064129"
-  },
-  {
-    "national_id": "1169240841",
-    "name": "محمد صالح عبدالله الشيخي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064130",
-    "seat_full": "064130"
-  },
-  {
-    "national_id": "2279833046",
-    "name": "محمد عبدالرحمن عبده الحطامي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064131",
-    "seat_full": "064131"
-  },
-  {
-    "national_id": "1147304057",
-    "name": "محمد على بركات الناشري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064132",
-    "seat_full": "064132"
-  },
-  {
-    "national_id": "1147103616",
-    "name": "محمد على بن أحمد العيسي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "12",
-    "committee_location": "فصل 18",
-    "seat": "064133",
-    "seat_full": "064133"
-  },
-  {
-    "national_id": "1158390334",
-    "name": "محمد موسي بن عبدالله العبدلي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010169",
-    "seat_full": "010169"
-  },
-  {
-    "national_id": "1149845172",
-    "name": "محمد نايف صالح الجدعاني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010170",
-    "seat_full": "010170"
-  },
-  {
-    "national_id": "1150797460",
-    "name": "محمد هجاد سالم الغامدي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010171",
-    "seat_full": "010171"
-  },
-  {
-    "national_id": "1150992707",
-    "name": "محمد يحي محمد مبهي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010172",
-    "seat_full": "010172"
-  },
-  {
-    "national_id": "2298159787",
-    "name": "محمد يعقوب - تاج محمد",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010173",
-    "seat_full": "010173"
-  },
-  {
-    "national_id": "1149922013",
-    "name": "مروان محمد عبدالله الزهراني",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010174",
-    "seat_full": "010174"
-  },
-  {
-    "national_id": "1149540096",
-    "name": "مشاري احمد ابن حسان المحمودي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010175",
-    "seat_full": "010175"
-  },
-  {
-    "national_id": "2298190527",
-    "name": "مصطفى عبدالله محمد حلوان",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010176",
-    "seat_full": "010176"
-  },
-  {
-    "national_id": "1152153027",
-    "name": "معاذ حامد محمد العيسي",
-    "grade": "الأول الثانوي",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010177",
-    "seat_full": "010177"
-  },
-  {
-    "national_id": "1150946208",
-    "name": "مهند مروان عبدالعزيز القبي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010178",
-    "seat_full": "010178"
-  },
-  {
-    "national_id": "1149561555",
-    "name": "نايف احمد محمد القرني",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010179",
-    "seat_full": "010179"
-  },
-  {
-    "national_id": "1165334473",
-    "name": "نايف عبدالله محمد الحربي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010180",
-    "seat_full": "010180"
-  },
-  {
-    "national_id": "1158239457",
-    "name": "نايف محمد حسين البسيسي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "010181",
-    "seat_full": "010181"
-  },
-  {
-    "national_id": "1145364830",
-    "name": "محمد فائز بن صويلح السناني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064134",
-    "seat_full": "064134"
-  },
-  {
-    "national_id": "1151154570",
-    "name": "محمد مستور موري حسين",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064135",
-    "seat_full": "064135"
-  },
-  {
-    "national_id": "1147590135",
-    "name": "مشاري نائف سعد الزهراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064136",
-    "seat_full": "064136"
-  },
-  {
-    "national_id": "1147513822",
-    "name": "معاذ احمد علي الشمراني",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064137",
-    "seat_full": "064137"
-  },
-  {
-    "national_id": "2283223812",
-    "name": "معاذ سالم ربيع زين",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064138",
-    "seat_full": "064138"
-  },
-  {
-    "national_id": "1136923271",
-    "name": "معاذ عبدالله محمد المش",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064139",
-    "seat_full": "064139"
-  },
-  {
-    "national_id": "1148263369",
-    "name": "معاذ مساوى محمد راجحي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064140",
-    "seat_full": "064140"
-  },
-  {
-    "national_id": "1147447815",
-    "name": "معيلي يوسف بن معيلي السفري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064141",
-    "seat_full": "064141"
-  },
-  {
-    "national_id": "3000086286",
-    "name": "مهدي محمد صادق علي محمد شفيع",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064142",
-    "seat_full": "064142"
-  },
-  {
-    "national_id": "1144641337",
-    "name": "مهند عثمان احمد جتيم",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064143",
-    "seat_full": "064143"
-  },
-  {
-    "national_id": "1148277856",
-    "name": "مويد طلال عوض المطيري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064144",
-    "seat_full": "064144"
-  },
-  {
-    "national_id": "1147034019",
-    "name": "ميسرة هاني محمد نحاس",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064145",
-    "seat_full": "064145"
-  },
-  {
-    "national_id": "1150175022",
-    "name": "نادر محمد سعيد الشهري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064146",
-    "seat_full": "064146"
-  },
-  {
-    "national_id": "1146648710",
-    "name": "ناصر صالح حسن الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "13",
-    "committee_location": "فصل 20",
-    "seat": "064147",
-    "seat_full": "064147"
-  },
-  {
-    "national_id": "2338326719",
-    "name": "نواف سند مبارك عتيق",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010182",
-    "seat_full": "010182"
-  },
-  {
-    "national_id": "1151517297",
-    "name": "هادي يحي محمد ابوالسن",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010183",
-    "seat_full": "010183"
-  },
-  {
-    "national_id": "1152079289",
-    "name": "هادي يحي هادي حكمي",
-    "grade": "الأول الثانوي",
-    "class": "6",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010184",
-    "seat_full": "010184"
-  },
-  {
-    "national_id": "2275420202",
-    "name": "هتان هاني محمود الحطامي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010185",
-    "seat_full": "010185"
-  },
-  {
-    "national_id": "1148819665",
-    "name": "هشام صلاح محمد خواجي",
-    "grade": "الأول الثانوي",
-    "class": "2",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010186",
-    "seat_full": "010186"
-  },
-  {
-    "national_id": "1151331525",
-    "name": "هيثم علوان علي الغامدي",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010187",
-    "seat_full": "010187"
-  },
-  {
-    "national_id": "1150682290",
-    "name": "هيثم محمد بن علي الشهري",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010188",
-    "seat_full": "010188"
-  },
-  {
-    "national_id": "1153623168",
-    "name": "وائل احمد محمد الغامدي",
-    "grade": "الأول الثانوي",
-    "class": "3",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010189",
-    "seat_full": "010189"
-  },
-  {
-    "national_id": "1152094585",
-    "name": "وسام عايض شامي عسيري",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010190",
-    "seat_full": "010190"
-  },
-  {
-    "national_id": "1153502164",
-    "name": "وسام يحي علي خبراني",
-    "grade": "الأول الثانوي",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010191",
-    "seat_full": "010191"
-  },
-  {
-    "national_id": "1153742448",
-    "name": "وليد احمد ابراهيم الشيخي",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010192",
-    "seat_full": "010192"
-  },
-  {
-    "national_id": "2287937177",
-    "name": "وليد محمد احمد الديني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010193",
-    "seat_full": "010193"
-  },
-  {
-    "national_id": "1155872847",
-    "name": "ياسر علي عبدالله القرني",
-    "grade": "الأول الثانوي",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "010194",
-    "seat_full": "010194"
-  },
-  {
-    "national_id": "00646356",
-    "name": "نواف عبدالرقيب بجاش الدبعي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064148",
-    "seat_full": "064148"
-  },
-  {
-    "national_id": "3000019205",
-    "name": "نواف نور حافظ ابو شامه",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064149",
-    "seat_full": "064149"
-  },
-  {
-    "national_id": "4123552269",
-    "name": "نواف وليد محمد العماري",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064150",
-    "seat_full": "064150"
-  },
-  {
-    "national_id": "1148048810",
-    "name": "هيثم شامي بن شداد المرحبي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064151",
-    "seat_full": "064151"
-  },
-  {
-    "national_id": "1143156238",
-    "name": "وليد بن خميس بن سبيعي ال ساعد الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064152",
-    "seat_full": "064152"
-  },
-  {
-    "national_id": "1150286274",
-    "name": "ياسر حسن احمد حمدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064153",
-    "seat_full": "064153"
-  },
-  {
-    "national_id": "1145937684",
-    "name": "ياسر فواز عيد الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064154",
-    "seat_full": "064154"
-  },
-  {
-    "national_id": "1161099740",
-    "name": "ياسين عطيه ياسين الهنيدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "5",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064155",
-    "seat_full": "064155"
-  },
-  {
-    "national_id": "1148209560",
-    "name": "يزن دخيل الله بن غرم الله الغامدي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "3",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064156",
-    "seat_full": "064156"
-  },
-  {
-    "national_id": "1149435859",
-    "name": "يزن عبدالله محمد ابوالسن",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064157",
-    "seat_full": "064157"
-  },
-  {
-    "national_id": "1148963810",
-    "name": "يزن علي محمد راجحي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064158",
-    "seat_full": "064158"
-  },
-  {
-    "national_id": "4636282115",
-    "name": "يوسف فهمي زبير",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "4",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064159",
-    "seat_full": "064159"
-  },
-  {
-    "national_id": "1148757378",
-    "name": "يوسف مخلد حسن الحربي",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "2",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064160",
-    "seat_full": "064160"
-  },
-  {
-    "national_id": "2365755517",
-    "name": "يونس نذير أحمد - بهاول",
-    "grade": "الثاني ثانوي المسار العام",
-    "class": "1",
-    "committee": "14",
-    "committee_location": "فصل 20",
-    "seat": "064161",
-    "seat_full": "064161"
+    "committee": "3",
+    "committee_location": "فصل 10",
+    "seat": "083034",
+    "seat_full": "083034"
   }
 ]
